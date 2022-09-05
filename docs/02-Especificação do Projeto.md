@@ -87,26 +87,97 @@ Sabemos que um dos maiores gastos das pessoas é sua compra mensal/semanal, até
 | --- | --- |
 | Dificuldade em encontrar aplicativos onde mostre a localização do supermercado com a compra de menor preço |Gosto de assistir jogos de futebol, e sair para caminhar nas folgas.  | - |
 
+## Luis Felipe
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 18 anos | Twitter | Utiliza ferramentas de busca na internet e no smartphone para encontrar produtos em promoção. |
+| Estado Civil: Solteiro | Youtube | Participa de comunidades na internet e no smartphone de caçadores de promoção em busca de cupons de desconto. |
+| Naturalidade: Belo Horizonte, MG | Google | Cria alertas de produtos em sites informando o preço ideal. |
+| Tipo de moradia atual: casa, Mora com os pais | Facebook|Gostaria que um site ou aplicativo permitisse a criação de uma lista de produtos e indicasse o estabelecimento próximo de sua residência com menor preço. |
+| Cidade em que reside atualmente: Belo Horizonte, MG | Instagram | - |
+| Formação: Ensino Médio | WhatsApp | - |
+| Ocupação: Estudante, Cursando graduação em Computação | - | - |
 
+| **Frustações:**| **Hobbies, História:** |
+| --- | --- |
+| Gastar um tempo longo para pesquisar promoções de diversos produtos, tendo em vista que depende do dinheiro dos pais para adquiri-los. | Andar de bicicleta, jogar vídeo game, ler mangás, brincar com os cachorros, fazer trilha e cachoeira. |
 
+## Maria de Fátima
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 50 anos | TV aberta | Anota promoções de produtos em comerciais de TV. |
+| Estado Civil: Casada | WhatsApp | Guarda folhetos de supermercados para consulta de preços de produtos. |
+| Naturalidade: Belo Horizonte, MG | Facebook | Busca produtos em oferta na internet em empresas tradicionais do ramo varejista. |
+| Tipo de moradia atual: casa própria | Youtube|Gostaria que um site ou aplicativo permitisse a criação de uma lista de produtos e indicasse o estabelecimento próximo de sua residência com menor preço. |
+| Cidade em que reside atualmente: Belo Horizonte, MG | Facebook | Recebe de amigos (as) anúncios de produtos em promoção pelo whatsapp. |
+| Formação: Ensino superior | - | Gostaria que um site ou aplicativo permitisse a criação de uma lista de produtos e indicasse o estabelecimento próximo de sua residência com menor preço. |
+| Ocupação: Professora aposentada | - | - |
+
+| **Frustações:**| **Hobbies, História:** |
+| --- | --- |
+| Controlar junto com seu marido a lista de compras no supermercado, precisando às vezes retirar produtos do carrinho de compras quando o valor excede ao que eles podem gastar. | Cuidar de plantas, leitura, assistir TV e filmes, visitar familiares e amigos (as). |
+| - | - |
+
+## Patrícia Silva
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 35 anos | WhatsApp | Utiliza ferramentas de busca na internet e no smartphone para encontrar produtos em promoção. |
+| Estado Civil: Casada | Instagram | Compra produtos em empresas tradicionais do ramo varejista com cupons promocionais. |
+| Naturalidade:São Paulo, SP | Google | Cria alertas de produtos em sites informando o preço ideal. |
+| Tipo de moradia atual: Apartamento | Facebook | Participa de grupos no whatsapp com amigos(as) para compra coletiva em busca preços menores. |
+| Cidade em que reside atualmente: São Paulo, SP | - | Gostaria que um site ou aplicativo permitisse a criação de uma lista de produtos e indicasse o estabelecimento próximo de sua localidade com menor preço. |
+| Formação: Graduação em Ciencias Contábeis | - | - |
+| Ocupação: Analista Tributária | - | - |
+
+| **Frustações:**| **Hobbies, História:** |
+| --- | --- |
+| Ter mais tempo para aproveitar com família e amigos. | Viajar, dançar, confraternizar amigos(as), além de curtir a família (tenho 2 filhos). |
+
+## Tereza Aparecida
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 60 anos | TV aberta | Não utiliza ferramentas de busca na internet e nem no smartphone para encontrar produtos em promoção. |
+| Estado Civil: viúva | WhatsApp | Realiza compras em estabelecimentos de bairro, próximos de sua residência. |
+| Naturalidade: Belo Horizonte, MG | Youtube | Utiliza smartphone apenas para conversar com amigos(as) e familiares. |
+| Tipo de moradia atual: casa própria, mora com um filho adulto | Facebook | Gostaria de uma maneira simples de pesquisar preços de produtos próximo de sua residência. |
+| Cidade em que reside atualmente: Betim, MG | - | - |
+| Formação: Ensino Médio | Linkedin | - |
+| Ocupação: Dona de casa, pensionista| - | - |
+
+| **Frustações:**| **Hobbies, História:** |
+| --- | --- |
+| Dificuldade de locomoção para lugares distantes. | Cuidar de suas plantas, cachorros, assistir TV. |
+
+## Rodrigo Machado
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 35 anos | Youtube | Expandir seu negócio em sua cidade. |
+| Estado Civil: Divorciado | WhatsApp | Pesquisa preços praticados pelos seus concorrentes. |
+| Naturalidade: Contagem, MG | - | Conseguir uma negociação melhor dos seus produtos com seus fornecedores. |
+| Tipo de moradia atual: Apartamento | - | Oferecer produtos locais com a contribuição de pequenos produtores. |
+| Cidade em que reside atualmente: Contagem, MG | Instagram | Gostaria de divulgar os preços dos seus produtos em uma plataforma online. Gostaria de atrair clientes próximos a seus estabelecimentos. |
+| Formação: Ensino Superior em Administração | Linkedin | - |
+| Ocupação: Empresário de uma pequena rede de supermercado | Uber| - |
+
+| **Frustações:**| **Hobbies, História:** |
+| --- | --- |
+| Dificuldade na divulgação dos preços dos seus produtos de forma simples pelos meios de comunicação atuais. | Estudar técnicas de vendas e marketing, visitar os filhos, os pais  e familiares, viajar. |
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Luis Felipe| ter a opção de informar sua localização instantanea e pesquisar uma lista de produtos próximo da mesma| que quando quiser, em qualquer lugar com rede de dados, pesquisar preços de um conjunto de produtos|
+|Luis Felipe| ter a opção de compartilhar a lista criada de produtos| compartilhar detalhadamente o preço de cada produto da lista com um grupo de amigos(as) ou os pais|
+|Maria de Fátima| receber produtos similares na pesquisa, caso não seja encontrado o produto requerido| que a pesquisa retorne o maior número de produtos listados|
+|Maria de Fátima| ter a opção de criar uma lista favorita de produtos e marcá-los no momento da compra a medida que forem sendo inseridos no carrinho de compras| que possa marcar os produtos já inseridos no carrinho de compras no supermercado|
+|Patrícia Silva| ter a opção de criar uma lista favorita de produtos| que possa criar diferentes listas de produtos|
+|Patrícia Silva| ter a opção de compartilhar a lista criada de produtos| compartilhar detalhadamente o preço de cada produto da lista com um grupo de amigos(as) ou familiares|
+|Tereza Aparecida| ter a opção de encontrar produtos de menor preço próximo a sua residência| que quando necessário eu possa consultar preço de produtos próximo a minha residência|
+|Rodrigo Machado| ter a opção de preencher a localização de seus estabelecimentos| atrair/captar clientes próximos a seus estabelecimentos|
+|Rodrigo Machado| ter a opção de publicar o preço dos produtos de seu estabelecimento| divulgar seu estabelecimento e produtos em uma plataforma online|
 
 ## Modelagem do Processo de Negócio 
 
