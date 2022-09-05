@@ -7,19 +7,88 @@ Sabemos que um dos maiores gastos das pessoas é sua compra mensal/semanal, até
  
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+## Carla Diaz 
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 24 anos| Telegram| Já fez uso de um aplicativo de preço de produtos, porém ele não dava disponibilidade de o usuário inserir informaçoes.|
+| Estado Civil: Casado | Youtube | Gostaria de um aplicativo onde pudesse olhar os menores preços, mas também colaborar com o aplicativo inserindo informações sobre os preços e compras. | |
+| Naturalidade: Montes Claros, MG | Google | - |
+| Tipo de moradia atual: Apartamento alugado | Facebook| - |
+| Cidade em que reside atualmente:  Montes Claros, MG| Instagram | - |
+| Formação: Recursos Humanos | WhatsApp | - |
+| Ocupação: Estagiária | - | - |
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| **Frustração:**| **Hobbies:**|
+| --- | --- |
+| Dificuldade em ajudar outras pessoas com informações de preços dos produtos, e de achar produtos mais baratos. | Gosto de  Assistir séries, Caminhar no parque aos fins de semana | - |
+
+
+## Paulo da Silva 
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 40 anos  | Facebook| Já fez uso de um aplicativo que não mostrava o preço das compras, somente dos produtos individuais.|
+| Estado Civil: Casado | WhatsApp |gostaria de um aplicativo que me mostrasse o preço das compras dos produtos do meu desejo, para visualizar o  supermercado mais em conta para as compras mensais da minha família. ||
+| Naturalidade: Belo Horizonte, MG | YouTube | - |
+| Tipo de moradia atual: Casa alugada | - | - |
+| Cidade em que reside atualmente:  Belo Horizonte, MG| - | - |
+| Formação: Ensino médio | - | - |
+| Ocupação: Pedreiro | - | - |
+
+| **Frustração:**| **Hobbies:**|
+| --- | --- |
+| Dificuldade em achar o melhor preço para compras | Nos finais de semana que não trabalho, gosto de estar com meus filhos, assistir um filme, e também gosto de pescar. | - |
+
+
+## Márcia Gomes
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 35 anos  | Instagram| Nunca fez uso de um aplicativo assim, e sente necessidade de um aplicativo que a ajude nas compras.|
+| Estado Civil: Casada | Facebook | gostaria de um aplicativo que agilizasse sua procura por preços de produtos mais em conta nos supermercados, onde  pudesse ver os preços de cada um e comprar no mercado onde fica mais em conta . ||
+| Naturalidade: Rio de Janeiro, RJ | WhatsApp | - |
+| Tipo de moradia atual: Apartamento alugado| YouTube | - |
+| Cidade em que reside atualmente: Salvador, BA | - | - |
+| Formação: Letras | - | - |
+| Ocupação: Professora de Português | - | - |
+
+| **Frustração:**| **Hobbies:**|
+| --- | --- |
+| Dificuldade em se deslocar para procurar melhores preços de compras e produtos| Geralmente nas minhas folgas gosto de ler livros, e aproveitar o tempo livre com meu marido, ir ao cinema, andar de bicicleta, e ir ao parque. | - |
+
+
+##  Ana Beatriz 
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 26 anos  | TikTok | Já pesquisou sobre preços de compras em supermercados diferentes, mas não encontrava nada concreto.|
+| Estado Civil: Casada | Instagram | gostaria de um aplicativo que fosse dinâmico e prático para olhar esses preços com praticidade sem precisar ficar se deslocando ou pesquisando em lugares diferentes. ||
+| Naturalidade: São Paulo, SP | WhatsApp | - |
+| Tipo de moradia atual: Casa própria | YouTube | - |
+| Cidade em que reside atualmente:  Caratinga, MG  | Facebook | - |
+| Formação: Ensino médio | - | - |
+| Ocupação: Do lar | - | - |
+
+| **Frustração:**| **Hobbies:**|
+| --- | --- |
+| Dificuldade em encontrar aplicativos onde mostrasse preço de compras sem precisar pesquisar em todo lugar| Gosto de ir ao cinema com minha família, andar de bicicleta, e fazer crochê.  | - |
+
+
+##  José Roberto  
+| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
+| --- | --- | --- |
+| Idade: 50 anos  | Facebook | Já utilizou um aplicativo de preços de produtos, mas não informava onde eram os supermecados.|
+| Estado Civil: Casado | YouTube | gostaria de um aplicativo que mostre o preço dessas compras e onde o supermercado com a compra de menor preço se localiza. ||
+| Naturalidade: Patos de Minas, MG | WhatsApp | - |
+| Tipo de moradia atual: Casa própria | - | - |
+| Cidade em que reside atualmente:  São Bernardo, SP  | - | - |
+| Formação: Ensino médio | - | - |
+| Ocupação: Do lar | - | - |
+
+| **Frustração:**| **Hobbies:**|
+| --- | --- |
+| Dificuldade em encontrar aplicativos onde mostre a localização do supermercado com a compra de menor preço |Gosto de assistir jogos de futebol, e sair para caminhar nas folgas.  | - |
+
+
+
 
 ## Histórias de Usuários
 
