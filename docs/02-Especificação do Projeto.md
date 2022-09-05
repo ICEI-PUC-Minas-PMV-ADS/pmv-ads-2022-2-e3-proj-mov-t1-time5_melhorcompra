@@ -44,7 +44,7 @@ Sabemos que um dos maiores gastos das pessoas é sua compra mensal/semanal, até
 | **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
 | --- | --- | --- |
 | Idade: 35 anos  | Instagram| Nunca fez uso de um aplicativo de preço de compras, e sente a necessidade de um aplicativo que a ajude a economizar nas compras.|
-| Estado Civil: Casada | Facebook | gostaria de um aplicativo que agilizasse sua procura por preços de produtos mais em conta nos supermercados, onde  pudesse ver os preços de cada um e comprar no mercado onde fica mais em conta . ||
+| Estado Civil: Casada | Facebook | Gostaria de um aplicativo que agilizasse sua procura por preços de produtos mais em conta nos supermercados, onde  pudesse ver os preços de cada um e comprar no mercado onde fica mais em conta . ||
 | Naturalidade: Rio de Janeiro,RJ | WhatsApp | - |
 | Tipo de moradia atual: Apartamento alugado | YouTube | - |
 | Cidade em que reside atualmente: Salvador, BA | - | - |
