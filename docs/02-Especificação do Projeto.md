@@ -2,7 +2,7 @@
 
 
 
-Sabemos que um dos maiores gastos das pessoas é sua compra mensal/semanal, até porque é indispensável o alimento diário, porém os usuários enfrentam um grande problema ao encontrar um supermercado com o  melhor preço para fazer suas compras, principalmente com o preço das coisas aumentando cada vez mais. É pensando nisso que criamos esse projeto, onde os próprios consumidores também podem contribuir com o aplicativo, que informa aos usuários o lugar com o melhor preço para fazer suas compras, e preços dos produtos individuais,  e assim ter a oportunidade de diminuir nos gastos. 
+Sabemos que um dos maiores gastos das pessoas é sua compra mensal/semanal, até porque é indispensável o alimento diário, porém os usuários enfrentam um grande problema ao encontrar um supermercado com o  melhor preço para fazer suas compras, principalmente com o preço das coisas aumentando cada vez mais. É pensando nisso que criamos esse projeto, onde os próprios consumidores também podem contribuir com o aplicativo, que informa aos usuários o lugar com o melhor preço para fazer suas compras, também preços dos produtos individuais,  e assim ter a oportunidade de diminuir nos gastos. 
 
  
 ## Personas
@@ -11,8 +11,8 @@ Sabemos que um dos maiores gastos das pessoas é sua compra mensal/semanal, até
 ## Carla Diaz 
 | **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
 | --- | --- | --- |
-| Idade: 24 anos| Telegram| Já fez uso de um aplicativo de preço de produtos, porém ele não dava disponibilidade de o usuário inserir informaçoes.|
-| Estado Civil: Casado | Youtube | Gostaria de um aplicativo onde pudesse olhar os menores preços, mas também colaborar com o aplicativo inserindo informações sobre os preços e compras. | |
+| Idade: 24 anos| Telegram| Já fez uso de um aplicativo de preço de produtos, porém ele não dava disponibilidade de o usuário inserir informações.|
+| Estado Civil: Casada | Youtube | Gostaria de um aplicativo onde pudesse olhar os menores preços, mas também colaborar com o aplicativo inserindo informações sobre os preços e compras. | |
 | Naturalidade: Montes Claros, MG | Google | - |
 | Tipo de moradia atual: Apartamento alugado | Facebook| - |
 | Cidade em que reside atualmente:  Montes Claros, MG| Instagram | - |
@@ -21,14 +21,14 @@ Sabemos que um dos maiores gastos das pessoas é sua compra mensal/semanal, até
 
 | **Frustração:**| **Hobbies:**|
 | --- | --- |
-| Dificuldade em ajudar outras pessoas com informações de preços dos produtos, e de achar produtos mais baratos. | Gosto de  Assistir séries, Caminhar no parque aos fins de semana | - |
+| Dificuldade em ajudar outras pessoas com informações de preços dos produtos, e de achar produtos mais baratos. | Gosto de  Assistir séries e Caminhar no parque aos fins de semana | - |
 
 
 ## Paulo da Silva 
 | **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
 | --- | --- | --- |
 | Idade: 40 anos  | Facebook| Já fez uso de um aplicativo que não mostrava o preço das compras, somente dos produtos individuais.|
-| Estado Civil: Casado | WhatsApp |gostaria de um aplicativo que me mostrasse o preço das compras dos produtos do meu desejo, para visualizar o  supermercado mais em conta para as compras mensais da minha família. ||
+| Estado Civil: Casado | WhatsApp |Gostaria de um aplicativo que  mostrasse o preço das compras dos produtos, para visualizar o  supermercado mais em conta para as compras mensais da família. ||
 | Naturalidade: Belo Horizonte, MG | YouTube | - |
 | Tipo de moradia atual: Casa alugada | - | - |
 | Cidade em que reside atualmente:  Belo Horizonte, MG| - | - |
@@ -37,16 +37,16 @@ Sabemos que um dos maiores gastos das pessoas é sua compra mensal/semanal, até
 
 | **Frustração:**| **Hobbies:**|
 | --- | --- |
-| Dificuldade em achar o melhor preço para compras | Nos finais de semana que não trabalho, gosto de estar com meus filhos, assistir um filme, e também gosto de pescar. | - |
+| Dificuldade em achar o melhor preço para compras. | Nos finais de semana que não trabalho, gosto de estar com meus filhos, assistir um filme, e também gosto de pescar. | - |
 
 
 ## Márcia Gomes
 | **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
 | --- | --- | --- |
-| Idade: 35 anos  | Instagram| Nunca fez uso de um aplicativo assim, e sente necessidade de um aplicativo que a ajude nas compras.|
+| Idade: 35 anos  | Instagram| Nunca fez uso de um aplicativo de preço de compras, e sente a necessidade de um aplicativo que a ajude a economizar nas compras.|
 | Estado Civil: Casada | Facebook | gostaria de um aplicativo que agilizasse sua procura por preços de produtos mais em conta nos supermercados, onde  pudesse ver os preços de cada um e comprar no mercado onde fica mais em conta . ||
-| Naturalidade: Rio de Janeiro, RJ | WhatsApp | - |
-| Tipo de moradia atual: Apartamento alugado| YouTube | - |
+| Naturalidade: Rio de Janeiro,RJ | WhatsApp | - |
+| Tipo de moradia atual: Apartamento alugado | YouTube | - |
 | Cidade em que reside atualmente: Salvador, BA | - | - |
 | Formação: Letras | - | - |
 | Ocupação: Professora de Português | - | - |
@@ -60,7 +60,7 @@ Sabemos que um dos maiores gastos das pessoas é sua compra mensal/semanal, até
 | **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
 | --- | --- | --- |
 | Idade: 26 anos  | TikTok | Já pesquisou sobre preços de compras em supermercados diferentes, mas não encontrava nada concreto.|
-| Estado Civil: Casada | Instagram | gostaria de um aplicativo que fosse dinâmico e prático para olhar esses preços com praticidade sem precisar ficar se deslocando ou pesquisando em lugares diferentes. ||
+| Estado Civil: Casada | Instagram | Gostaria de um aplicativo que fosse dinâmico e prático para olhar esses preços com praticidade, sem precisar ficar se deslocando ou pesquisando em lugares diferentes. ||
 | Naturalidade: São Paulo, SP | WhatsApp | - |
 | Tipo de moradia atual: Casa própria | YouTube | - |
 | Cidade em que reside atualmente:  Caratinga, MG  | Facebook | - |
@@ -76,7 +76,7 @@ Sabemos que um dos maiores gastos das pessoas é sua compra mensal/semanal, até
 | **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
 | --- | --- | --- |
 | Idade: 50 anos  | Facebook | Já utilizou um aplicativo de preços de produtos, mas não informava onde eram os supermecados.|
-| Estado Civil: Casado | YouTube | gostaria de um aplicativo que mostre o preço dessas compras e onde o supermercado com a compra de menor preço se localiza. ||
+| Estado Civil: Casado | YouTube | Gostaria de um aplicativo que mostre o preço dessas compras e onde o supermercado com a compra de menor preço se localiza. ||
 | Naturalidade: Patos de Minas, MG | WhatsApp | - |
 | Tipo de moradia atual: Casa própria | - | - |
 | Cidade em que reside atualmente:  São Bernardo, SP  | - | - |
