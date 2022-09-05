@@ -2,7 +2,9 @@
 
 
 
-Sabemos que um dos maiores gastos mensais das pessoas é sua compra mensal/semanal, até porque é indispensável o alimento diário, porém os usuários enfrentam um grande problema ao encontrar um supermercado com o  melhor preço para fazer suas compras, principalmente com o preço das coisas aumentando cada vez mais. É pensando nisso que criamos esse projeto, um aplicativo que mostra aos usuários o lugar com o melhor preço para fazer suas compras, e assim ter a oportunidade de diminuir nos gastos. 
+Sabemos que um dos maiores gastos das pessoas é sua compra mensal/semanal, até porque é indispensável o alimento diário, porém os usuários enfrentam um grande problema ao encontrar um supermercado com o  melhor preço para fazer suas compras, principalmente com o preço das coisas aumentando cada vez mais. É pensando nisso que criamos esse projeto, onde os próprios consumidores também podem contribuir com o aplicativo, que informa aos usuários o lugar com o melhor preço para fazer suas compras, e preços dos produtos individuais,  e assim ter a oportunidade de diminuir nos gastos. 
+
+ 
 ## Personas
 
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
