@@ -212,38 +212,47 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+Ao começar um projeto todos os requisitos devem ser levantados, entendidos e documentado. O escopo deste projeto é definido por meio de requisitos funcionais, que são as características que definem os critérios de aceitação do produto e a necessidade do cliente, e requisitos não funcionais que é voltado pelas características de qualidade que o sistema todo ou uma funcionalidade em específico deve ter.
+Para determinar a prioridade de requisitos, aplicamos o método MoSCoW, é uma técnica usada em gestão, análise de negócios, desenvolvimento de software e gerenciamentos de projetos. Ela é utilizada para definir a prioridade e a importância das tarefas que compõem um projeto, é entendida como um acrônimo e cada uma das sua classificações origina-se no inglês(. A seguir, apresentamos a ordem de importância:
 
+- Must Have (tenho que fazer)
+- O
+- Should Have (devo fazer)
+- Could Have (poderia fazer)
+- O
+- Won’t Have (não será feito "por enquanto")
+
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais do projeto, identificando a prioridade em que os mesmos devem ser entregues. 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01| Permitir cadastrar usuario consumidor. | MUST | 
-|RF-02| Permitir ao consumidor criar uma lista de compras.  | MUST |
-|RF-03| Inserir informações dos produtos por meio de uma API. | MUST | 
-|RF-04| Permitir ao consumidor, de forma colaborativa, inserir informações sobre determinado produto e carregar imagem que comprove.   | MUST |
-|RF-05| Retornar ao usuario a lista cadastrada informando o preço total. | MUST | 
-|RF-06| Retornar ao usuario o total por supermercado mais proximo de sua localização.   | MUST |
-|RF-07| Sugerir um produto similar, caso o solicitado na lista não tenha na base. | SHOULD | 
-|RF-08| Salvar lista de favoritos.   | WOULD |
-|RF-09| Compartilhar a lista. | COULD | 
-|RF-010| Permitir ao usuario realizar um checklist da compra.   | COULD |
-|RF-011| Permitir ao usuario finalizar a compra somente pela opção de retirada e pagamento no estabelecimento. | WOULD | 
+|RF-01 | Permitir cadastrar usuario consumidor. | MUST | 
+|RF-02 | Permitir ao consumidor criar uma lista de compras.  | MUST |
+|RF-03 | Inserir informações dos produtos por meio de uma API. | MUST | 
+|RF-04 | Permitir ao consumidor, de forma colaborativa, inserir informações sobre determinado produto e carregar imagem que comprove.   | MUST |
+|RF-05 | Retornar ao usuario a lista cadastrada informando o preço total. | MUST | 
+|RF-06 | Retornar ao usuario o total por supermercado mais proximo de sua localização.   | MUST |
+|RF-07 | Sugerir um produto similar, caso o solicitado na lista não tenha na base. | SHOULD | 
+|RF-08 | Salvar lista de favoritos.   | WON'T |
+|RF-09 | Compartilhar a lista. | COULD | 
+|RF-10 | Permitir ao usuario realizar um checklist da compra.   | COULD |
+|RF-11 | Permitir ao usuario finalizar a compra somente pela opção de retirada e pagamento no estabelecimento. | WON'T | 
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
-|---------|-------------------------|----|
-|RNF-01   | Segurança na criação de usuário, a necessidade de criptografia de senhas e demais questões relacionadas para garantir a proteção dos dados.   | MUST | 
-|RNF-02  | O formulário de cadastro devem informar ao usuário quais são os campos de preenchimento obrigatório.  |  MUST | 
-|RNF-03  | Utilizar símbolo e ícone para ajudar no entendimento e conseguir uma associação imediata sobre aplicações de reconhecimento.	   |  SHOULD |
-|RNF-04  | A aplicação deve ser intuitiva, de fácil utilização, entendimento e deve ser organizado de tal maneira que os erros dos usuários sejam minimizados.    |  COULD |
-|RNF-05  | A aplicação deve possuir uma interface limpa, com visualização voltada para as necessidades do usuário no momento, também como forma de melhorar a performance e o desempenho.   |  COULD |
-|RNF-06  | A aplicação ou parte dela deve ser acessível por pessoas com certo tipo de deficiência ou outra necessidade específica.   |  COULD |
-|RNF-07  | A aplicação deverá ser responsivo.  |  COULD |
-|RNF-08  | A aplicação deve manter histórico de alteração de dados de produtos por cinco anos.   |  MUST |
-|RNF-09  | A aplicação deverá armazenar a data de inclusao/alteração de um produto. |  MUST |
+|-------|-------------------------|----|
+|RNF-01 | Segurança na criação de usuário, a necessidade de criptografia de senhas e demais questões relacionadas para garantir a proteção dos dados.   | MUST | 
+|RNF-02 | O formulário de cadastro devem informar ao usuário quais são os campos de preenchimento obrigatório.  |  MUST | 
+|RNF-03 | Utilizar símbolo e ícone para ajudar no entendimento e conseguir uma associação imediata sobre aplicações de reconhecimento.	   |  WON'T |
+|RNF-04 | A aplicação deve ser intuitiva, de fácil utilização, entendimento e deve ser organizado de tal maneira que os erros dos usuários sejam minimizados.    |  COULD |
+|RNF-05 | A aplicação deve possuir uma interface limpa, com visualização voltada para as necessidades do usuário no momento, também como forma de melhorar a performance e o desempenho.   |  COULD |
+|RNF-06 | A aplicação ou parte dela deve ser acessível por pessoas com certo tipo de deficiência ou outra necessidade específica.   |  COULD |
+|RNF-07 | A aplicação deverá ser responsivo.  |  COULD |
+|RNF-08 | A aplicação deve manter histórico de alteração de dados de produtos por cinco anos.   |  SHOULD |
+|RNF-09 |A aplicação deverá armazenar a data de inclusao/alteração de um produto. |  MUST |
 
 
 
@@ -254,33 +263,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/12/2022.|
 |RE-02| O aplicativo deve se restringir a linguagem de programação Javascript e o framework React-Native.       |
 |RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.      |
+|RE-04| Não pode ser desenvolvido um módulo de backend        |
 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-## Restrições
-
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
