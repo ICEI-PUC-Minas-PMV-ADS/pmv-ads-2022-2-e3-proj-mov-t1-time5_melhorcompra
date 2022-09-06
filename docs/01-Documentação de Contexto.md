@@ -1,10 +1,15 @@
 # Introdução
 
-De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), o preço dos alimentos e bebidas subiu em torno de 9,83% nos primeiros sete meses de 2022, sendo considerado maior que a inflação medida pelo Índice de Preço ao Consumidor Amplo (IPCA) que é de 4,77% referente a este setor.
+De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), o preço dos alimentos e bebidas subiu em torno de 9,83% nos primeiros sete meses de 2022, sendo considerado maior que a inflação medida pelo Índice de Preço ao Consumidor Amplo (IPCA) que é de 4,77%.
 
-Como uma forma de tentar contornar os recorrentes aumentos, os consumidores visando economia de dinheiro, tempo e distância, tem cada vez mais procurado aplicativos que realizam comparação de preços, um deles é o Preço da Hora, onde a ferramenta oferece ao consumidor, em tempo real, os menores preços de mais de 739 mil produtos comercializados nos 223 municípios do estado da Paraíba. Outro comparador de preços é o Compra Certa, com um objetivo mais generalista, visa garantir os melhores preços e disponibilizar cashback e cupons de desconto.
+![image](https://user-images.githubusercontent.com/32153247/188535665-7bf1c3ef-91d6-4de1-8d8c-16906c30a9a7.png)
 
-A escolha dos supermercados para as compras cotidianas, segundo a pesquisa “Tendências do Consumidor em Supermercados 2018/2019” da Associação Paulista de Supermercados (APAS), conduzida pelo IBOPE Inteligência, está relacionada ao preço, à qualidade e à variedade de produtos – ambos os quesitos com 69% das respostas – e localização, com 66%. Quem opta pelos mercados de vizinhança, privilegia a localização (87%), e quem vai nos atacados e atacarejos está interessado apenas no quesito preço (90%). “Os consumidores mais exigentes e informados querem mais do que somente bons preços. Eles desejam uma combinação de preço, qualidade de produtos e localização”, diz o presidente da APAS.
+
+
+Como uma forma de tentar contornar os recorrentes aumentos, os consumidores buscam uma forma de economizar dinheiro, tempo e distância e cada vez mais procuram por aplicativos que realizem comparação de preços, um deles é o Preço da Hora, onde a ferramenta oferece ao consumidor, em tempo real, os menores preços de mais de 739 mil produtos comercializados nos 223 municípios do estado da Paraíba. Outro comparador de preços é o Compra Certa, com um objetivo mais generalista, visa garantir os melhores preços e disponibilizar cashback e cupons de desconto.
+
+Segundo a pesquisa “Tendências do Consumidor em Supermercados 2018/2019” da Associação Paulista de Supermercados (APAS), conduzida pelo IBOPE Inteligência e correlacionada com a pesquisa de 2022 em parceria com a Shopper Experience, a escolha dos supermercados para as compras recorrentes está relacionada primeiramente ao preço, seguido da qualidade e da variedade de produtos, ambos os quesitos com 69% das respostas, já a localização apresenta 66%. Quem tem como principal fator de escolha a localização e opta por mercados dos arredores gira em torno de 87%, e o público que geralmente escolhe os atacados se interessam pelo preço, representando cerca de 90%. Porém é com base na combinação do preço, qualidade dos produtos e localização que consumidores mais exigentes realizam suas escolhas.
+O maior aumento na realização de compras online ocorreram na classe C, onde as compras onlines em supermercados passaram de 10% em 2020 para 52% em 2022, demonstrando que o público vem se familiarizando mais com os dispositivos móveis.
 
 ## Problema
 
@@ -22,7 +27,7 @@ Entre os objetivos especificos, tem-se:
 
 ## Justificativa
 
-O foco da nossa aplicação não é realizar pesquisas de produtos de forma isolada por marca, assim como aplicativos já existentes, mas sim uma listagem de produtos, podendo ser filtrada por categoria, na falta de algum item seria sugerido um similar ou apenas ignorado caso não houvesse.
+O foco da nossa aplicação não é realizar pesquisas de produtos de forma isolada por marca, assim como em aplicativos já existentes, mas sim uma listagem de produtos, podendo ser filtrada por categoria, na falta de algum item seria sugerido um similar ou apenas ignorado caso não houvesse.
 Os estabelecimentos seriam próximas do usuário, dentro de um raio de X Km.
 A ideia é criar uma aplicação onde os próprios usuários se ajudassem, onde a inserção de dados ocorreria de forma colaborativa, o consumidor preencheria um pequeno formulario com a categoria do produto, informando o peso líquido ou valor da unidade, e o nome do produto.
 
