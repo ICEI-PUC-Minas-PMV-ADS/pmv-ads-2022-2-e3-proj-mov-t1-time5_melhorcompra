@@ -199,10 +199,8 @@ Ao começar um projeto todos os requisitos devem ser levantados, entendidos e do
 Para determinar a prioridade de requisitos, aplicamos o método MoSCoW, é uma técnica usada em gestão, análise de negócios, desenvolvimento de software e gerenciamentos de projetos. Ela é utilizada para definir a prioridade e a importância das tarefas que compõem um projeto, é entendida como um acrônimo e cada uma das sua classificações origina-se no inglês. A seguir, apresentamos a ordem de importância:
 
 - Must Have (tenho que fazer)
-- O
 - Should Have (devo fazer)
 - Could Have (poderia fazer)
-- O
 - Won’t Have (não será feito "por enquanto")
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais do projeto, identificando a prioridade em que os mesmos devem ser entregues. 
@@ -270,7 +268,7 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
 
-![Exemplo de matriz de rastreabilidade](img/matriz-de-rastreabilidade-de-requisitos-.png)
+![Exemplo de matriz de rastreabilidade](img/matriz-de-rastreabilidade-de-requisitos.png)
 
 > **Links Úteis**:
 > - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
