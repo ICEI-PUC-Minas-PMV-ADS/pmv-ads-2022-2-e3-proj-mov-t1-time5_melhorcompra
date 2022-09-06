@@ -148,21 +148,6 @@ Sabemos que um dos maiores gastos das pessoas é sua compra mensal/semanal, até
 | --- | --- |
 | Dificuldade de locomoção para lugares distantes. | Cuidar de suas plantas, cachorros, assistir TV. |
 
-## Rodrigo Machado
-| **Informações Pessoais** | **Sites e Aplicativos** | **Motivações** |
-| --- | --- | --- |
-| Idade: 35 anos | Youtube | Expandir seu negócio em sua cidade. |
-| Estado Civil: Divorciado | WhatsApp | Pesquisa preços praticados pelos seus concorrentes. |
-| Naturalidade: Contagem, MG | - | Conseguir uma negociação melhor dos seus produtos com seus fornecedores. |
-| Tipo de moradia atual: Apartamento | - | Oferecer produtos locais com a contribuição de pequenos produtores. |
-| Cidade em que reside atualmente: Contagem, MG | Instagram | Gostaria de divulgar os preços dos seus produtos em uma plataforma online. Gostaria de atrair clientes próximos a seus estabelecimentos. |
-| Formação: Ensino Superior em Administração | Linkedin | - |
-| Ocupação: Empresário de uma pequena rede de supermercado | Uber| - |
-
-| **Frustações:**| **Hobbies, História:** |
-| --- | --- |
-| Dificuldade na divulgação dos preços dos seus produtos de forma simples pelos meios de comunicação atuais. | Estudar técnicas de vendas e marketing, visitar os filhos, os pais  e familiares, viajar. |
-
 ## Histórias de Usuários
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
@@ -176,8 +161,6 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Patrícia Silva| ter a opção de criar uma lista favorita de produtos| que possa criar diferentes listas de produtos|
 |Patrícia Silva| ter a opção de compartilhar a lista criada de produtos| compartilhar detalhadamente o preço de cada produto da lista com um grupo de amigos(as) ou familiares|
 |Tereza Aparecida| ter a opção de encontrar produtos de menor preço próximo a sua residência| que quando necessário eu possa consultar preço de produtos próximo a minha residência|
-|Rodrigo Machado| ter a opção de preencher a localização de seus estabelecimentos| atrair/captar clientes próximos a seus estabelecimentos|
-|Rodrigo Machado| ter a opção de publicar o preço dos produtos de seu estabelecimento| divulgar seu estabelecimento e produtos em uma plataforma online|
 
 ## Modelagem do Processo de Negócio 
 
@@ -271,17 +254,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais d
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
+O diagrama de caso de uso não oferece muitos detalhes, ele não mostra por exemplo a ordem em que os passos são executados. Ele dá uma visão geral do relacionamento entre casos de uso, atores e sistemas. O diagrama aborda as principais ligações entre casos de usos e usuário(ator) e detalham os Requisitos Funcionais identificados na etapa de elicitação , sendo assim o diagrama de caso de uso não é utilizado para requisitos não-funcionais. 
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+Bonecos palito representam os atores no processo(ex- Cliente, Administrador), e a participação do ator no sistema é modelada com uma linha entre o ator e o caso de uso. Para representar o limite do sistema, desenhe uma caixa em torno do próprio caso de uso. O próprio sistema não pode ser ator do diagrama que o modela. 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
+Quanto aos casos de uso, eles devem representar as interações dos atores com o sistema, cada tipo é representado por uma forma oval rotulada e as relações são indicadas por linhas que podem ter setas nos casos em que se indica a origem da interação. Os nomes dos casos de uso devem representar verbos no infinitivo de acordo com os objetos que se relacionam os verbos (ex- Efetuar login, Visualizar perfil). Os tipos de relacionamentos maus comuns são associações entre atores e casos de uso, generalização entre atores e entre casos de uso, inclusões e extensões entre casos de uso. 
 
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+Os casos de uso que serão implementados neste projeto são: Cadastrar usuário, Criar lista de produtos e Inserir preços de produtos. Esses casos de uso foram ilustrados no software XXXX UML, sugerido no microfundamentos de Engenharia de requisitos e podem ser visto na figura abaixo.
+
+<img src="img/Captura de tela 2022-09-06 184745.jpg" alt="Figura diagrama de caso de uso MelhorCompra">
 
 # Matriz de Rastreabilidade
 
