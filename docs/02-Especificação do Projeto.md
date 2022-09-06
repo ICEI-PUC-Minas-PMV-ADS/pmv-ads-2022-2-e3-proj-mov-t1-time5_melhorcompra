@@ -218,15 +218,43 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-01| Permitir cadastrar usuario consumidor. | MUST | 
+|RF-02| Permitir ao consumidor criar uma lista de compras.  | MUST |
+|RF-03| Inserir informações dos produtos por meio de uma API. | MUST | 
+|RF-04| Permitir ao consumidor, de forma colaborativa, inserir informações sobre determinado produto e carregar imagem que comprove.   | MUST |
+|RF-05| Retornar ao usuario a lista cadastrada informando o preço total. | MUST | 
+|RF-06| Retornar ao usuario o total por supermercado mais proximo de sua localização.   | MUST |
+|RF-07| Sugerir um produto similar, caso o solicitado na lista não tenha na base. | SHOULD | 
+|RF-08| Salvar lista de favoritos.   | WOULD |
+|RF-09| Compartilhar a lista. | COULD | 
+|RF-010| Permitir ao usuario realizar um checklist da compra.   | COULD |
+|RF-011| Permitir ao usuario finalizar a compra somente pela opção de retirada e pagamento no estabelecimento. | WOULD | 
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|---------|-------------------------|----|
+|RNF-01   | Segurança na criação de usuário, a necessidade de criptografia de senhas e demais questões relacionadas para garantir a proteção dos dados.   | MUST | 
+|RNF-02  | O formulário de cadastro devem informar ao usuário quais são os campos de preenchimento obrigatório.  |  MUST | 
+|RNF-03  | Utilizar símbolo e ícone para ajudar no entendimento e conseguir uma associação imediata sobre aplicações de reconhecimento.	   |  SHOULD |
+|RNF-04  | A aplicação deve ser intuitiva, de fácil utilização, entendimento e deve ser organizado de tal maneira que os erros dos usuários sejam minimizados.    |  COULD |
+|RNF-05  | A aplicação deve possuir uma interface limpa, com visualização voltada para as necessidades do usuário no momento, também como forma de melhorar a performance e o desempenho.   |  COULD |
+|RNF-06  | A aplicação ou parte dela deve ser acessível por pessoas com certo tipo de deficiência ou outra necessidade específica.   |  COULD |
+|RNF-07  | A aplicação deverá ser responsivo.  |  COULD |
+|RNF-08  | A aplicação deve manter histórico de alteração de dados de produtos por cinco anos.   |  MUST |
+|RNF-09  | A aplicação deverá armazenar a data de inclusao/alteração de um produto. |  MUST |
+
+
+
+## Restrições
+
+|ID| Restrição                                             |
+|--|-------------------------------------------------------|
+|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/12/2022.|
+|RE-02| O aplicativo deve se restringir a linguagem de programação Javascript e o framework React-Native.       |
+|RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.      |
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
