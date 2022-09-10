@@ -188,7 +188,7 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
-![Indicadores de Desempenho](img/indicadores-de-desempenho.png)
+![Indicadores de Desempenho](img/Indicadores-de-desempenho.png)
 
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado posteriormente. 
 
