@@ -259,7 +259,7 @@ Quanto aos casos de uso, eles devem representar as interações dos atores com o
 
 Os casos de uso que serão implementados neste projeto são: Cadastrar usuário, Criar lista de produtos e Inserir preços de produtos. Esses casos de uso foram ilustrados no software XXXX UML, sugerido no microfundamentos de Engenharia de requisitos e podem ser visto na figura abaixo.
 
-<img src="img/Captura de tela 2022-09-06 184745.jpg" alt="Figura diagrama de caso de uso MelhorCompra">
+<img src="img/Captura de tela 2022-09-06 184745_.jpg" alt="Figura diagrama de caso de uso MelhorCompra">
 
 # Matriz de Rastreabilidade
 
