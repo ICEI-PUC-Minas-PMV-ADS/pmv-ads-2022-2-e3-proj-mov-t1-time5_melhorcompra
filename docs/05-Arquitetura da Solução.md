@@ -43,8 +43,7 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
-
+A hospedagem do projeto feita no "GitHub", a do banco de dados utiliza-se o "DBaver" e o banco de dados "SQlite".
 > **Links Úteis**:
 >
 > - [Website com GitHub Pages](https://pages.github.com/)
