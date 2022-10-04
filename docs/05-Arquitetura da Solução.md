@@ -51,9 +51,17 @@ A hospedagem do projeto feita no "GitHub", a do banco de dados utiliza-se o "DBa
 
 ## Qualidade de Software
 
-Conceituar qualidade de fato é uma tarefa complexa, mas ela pode ser vista como um método gerencial que através de procedimentos disseminados por toda a organização, busca garantir um produto final que satisfaça às expectativas dos stakeholders.
+As sub-características que a equipe usará são: Apreensibilidade: listada no RNF-04, prezando pelo fácil acesso do usuário na aplicação;
+Segurança de acesso: listada no RNF-01, para prezar pela segurança do usuário;
+Operacionalidade: com relação ao requisito listado no RNF-05, focando no bom desempenho e na facilidade de operar na aplicação;
+Conformidade: focando no padrão e na portabilidade do software;
+Capacidade para ser instalado: o software será capaz de ser instalado em dispositivos mobile;
+Testabilidade: testando com facilidade as alterações feitas no software.
 
-No contexto de desenvolvimento de software, qualidade pode ser entendida como um conjunto de características a serem satisfeitas, de modo que o produto de software atenda às necessidades de seus usuários. Entretanto, tal nível de satisfação nem sempre é alcançado de forma espontânea, devendo ser continuamente construído. Assim, a qualidade do produto depende fortemente do seu respectivo processo de desenvolvimento.
+
+
+
+
 
 A norma internacional ISO/IEC 25010, que é uma atualização da ISO/IEC 9126, define oito características e 30 subcaracterísticas de qualidade para produtos de software.
 Com base nessas características e nas respectivas sub-características, identifique as sub-características que sua equipe utilizará como base para nortear o desenvolvimento do projeto de software considerando-se alguns aspectos simples de qualidade. Justifique as subcaracterísticas escolhidas pelo time e elenque as métricas que permitirão a equipe avaliar os objetos de interesse.
