@@ -10,7 +10,6 @@ O projeto tem por objetivo o desenvolvimento de um aplicativo que forneça uma l
 
 ## Integrantes
 
-* Breno Anderson da Silva
 * Geovane Vinicius Lacerda Gomes
 * Kenia Maria da Cunha
 * Laís Lima
