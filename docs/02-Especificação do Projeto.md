@@ -170,18 +170,16 @@ Atualmente como forma de fazer as compras podemos considerar aquela ida ao super
 
 ### Descrição Geral da Proposta
 
-Para conseguir identificar o estabelecimento onde uma compra ficará em um preço total mais baixo e mais proximo, criamos esse projeto, onde o objetivo é o usuario criar uma lista com os produtos desejados e após ser processada já retorna o valor total da lista e por estabelecimento mais próximo. Pensamos neste aplicativo como forma de diminuir nos gastos e no tempo procurando opções de supermercado. Outro diferencial é que consumidores também podem contribuir com o aplicativo, que ao encontrar preços promocionais ou valores diferentes da base de dados do aplicativo é possivel atualizar os dados do produto.
+Conseguir identificar o estabelecimento onde uma compra ficará em um preço total mais baixo e mais prÓximo. criamos esse projeto, onde o objetivo é o usuario criar uma lista com os produtos desejados e após ser processada já retorna o valor total da lista e por estabelecimento mais próximo. Pensamos neste aplicativo como forma de diminuir nos gastos e no tempo procurando opções de supermercado. Outro diferencial é que consumidores também podem contribuir com o aplicativo, que ao encontrar preços promocionais ou valores diferentes da base de dados do aplicativo é possivel atualizar os dados do produto.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – MODELAGEM AS IS
+O AS-IS é a situação atual dos processos, ou seja, como os processos funcionam hoje. Sem realizar nenhuma análise crítica e sem discutir se o processo está bom ou ruim.
+![Processo atual](img/Cenario-atual-melhor-compra.png)
 
+### Processo 2 – MODELAGEM TO BE - APLICATIVO MELHOR COMPRA
+O TO-BE é o processo futuro, ou seja, ele é o processo melhorado, aquele processo que queremos que a empresa venha a seguir. Ele é o processo onde as melhorias estão sendo implementadas. 
 
-![Processo 1](img/02-bpmn-proc1.png)
-
-### Processo 2 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
+![Processo futuro](img/Cenario-futuro-melhor-compra.png)
 
 ## Indicadores de Desempenho
 
