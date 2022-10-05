@@ -166,15 +166,14 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente como forma de fazer as compras podemos considerar aquela ida ao supermercado com a lista em mãos e buscando naquele estabelecimento cada produto e escolhendo dentre as variadas marcas o com melhor preço, mas dessa forma somente após passar pelo caixa é possivel ver o preço final. Ir em varios supermercados somente para cotar preços demanda muito tempo, o que se torna inviavel e faz com que o usuario já procura diretamente o estabelciemnto que mais se identifica. Outra forma é o uso de um aplicativo para essa compra,onde eu seleciono o estabelecimento e ali pesquiso individualmente cada produto e adiciono no carrinho o escolhido e assim faço isso com todos os itens que desejo comprar um á um, após inserir toda a lista já consegue visualizar o preço final.
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Para conseguir identificar o estabelecimento onde uma compra ficará em um preço total mais baixo e mais proximo, criamos esse projeto, onde o objetivo é o usuario criar uma lista com os produtos desejados e após ser processada já retorna o valor total da lista e por estabelecimento mais próximo. Pensamos neste aplicativo como forma de diminuir nos gastos e no tempo procurando opções de supermercado. Outro diferencial é que consumidores também podem contribuir com o aplicativo, que ao encontrar preços promocionais ou valores diferentes da base de dados do aplicativo é possivel atualizar os dados do produto.
 
 ### Processo 1 – NOME DO PROCESSO
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
 
 ![Processo 1](img/02-bpmn-proc1.png)
 
