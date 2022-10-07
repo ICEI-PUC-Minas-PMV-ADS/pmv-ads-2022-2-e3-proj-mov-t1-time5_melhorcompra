@@ -49,10 +49,15 @@ A hospedagem do projeto feita no "GitHub", a do banco de dados utiliza-se o "DBa
 ## Qualidade de Software
 
 As sub-características que a equipe usará são: Apreensibilidade: listada no RNF-04, prezando pelo fácil acesso do usuário na aplicação;
+
 Segurança de acesso: listada no RNF-01, para prezar pela segurança do usuário;
+
 Operacionalidade: com relação ao requisito listado no RNF-05, focando no bom desempenho e na facilidade de operar na aplicação;
+
 Conformidade: focando no padrão e na portabilidade do software;
+
 Capacidade para ser instalado: o software será capaz de ser instalado em dispositivos mobile;
+
 Testabilidade: testando com facilidade as alterações feitas no software.
 
 
@@ -60,11 +65,3 @@ Testabilidade: testando com facilidade as alterações feitas no software.
 
 
 
-A norma internacional ISO/IEC 25010, que é uma atualização da ISO/IEC 9126, define oito características e 30 subcaracterísticas de qualidade para produtos de software.
-Com base nessas características e nas respectivas sub-características, identifique as sub-características que sua equipe utilizará como base para nortear o desenvolvimento do projeto de software considerando-se alguns aspectos simples de qualidade. Justifique as subcaracterísticas escolhidas pelo time e elenque as métricas que permitirão a equipe avaliar os objetos de interesse.
-
-> **Links Úteis**:
->
-> - [ISO/IEC 25010:2011 - Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models](https://www.iso.org/standard/35733.html/)
-> - [Análise sobre a ISO 9126 – NBR 13596](https://www.tiespecialistas.com.br/analise-sobre-iso-9126-nbr-13596/)
-> - [Qualidade de Software - Engenharia de Software 29](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209/)
