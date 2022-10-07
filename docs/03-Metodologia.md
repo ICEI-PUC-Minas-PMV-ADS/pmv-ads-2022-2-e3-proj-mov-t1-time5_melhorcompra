@@ -6,7 +6,13 @@ Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvol
 ## Relação de Ambientes de Trabalho
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+
+|Ambiente|Plataformas|Link de Acesso|
+|--------|-----------|--------------|
+|Repositórios|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time5_melhorcompra.git|
+|Documentos do Projeto|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time5_melhorcompra.git|
+|Projeto de Interface e Wireframes|Figma| (https://www.figma.com/file/gWSTUUvATa1RTEz7ShPQK4/Mobile---App-Melhor-Compra?node-id=0%3A1) |
+|Gerenciamento do Projeto|GitHub Projects|https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/108/views/1|
 
 ## Controle de Versão
 
