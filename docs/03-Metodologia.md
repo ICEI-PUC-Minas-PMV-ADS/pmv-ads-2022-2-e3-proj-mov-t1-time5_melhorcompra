@@ -11,7 +11,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |--------|-----------|--------------|
 |Repositórios|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time5_melhorcompra.git|
 |Documentos do Projeto|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time5_melhorcompra.git|
-|Projeto de Interface e Wireframes|Figma| (https://www.figma.com/file/gWSTUUvATa1RTEz7ShPQK4/Mobile---App-Melhor-Compra?node-id=0%3A1) |
+|Projeto de Interface e Wireframes|Figma| https://www.figma.com/file/gWSTUUvATa1RTEz7ShPQK4/Mobile---App-Melhor-Compra?node-id=0%3A1 |
 |Gerenciamento do Projeto|GitHub Projects|https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/108/views/1|
 
 ## Controle de Versão
@@ -41,7 +41,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 > - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
 > - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
 > - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
+> - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
 > - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 > - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
@@ -49,31 +49,23 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
+#### Scrum Master
+Werlon Oliveira
+#### Equipe de desenvolvimento
+- Kênia Cunha
+- Lais Amaral
+- Sabrina Andrade
+- Geovane Vinicius
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
 
 ### Processo
+Para a organzação e distribuição  das tarefas optamos por utilizar o GitHub Projects disponibilizado pelo GitHub. Pode ser acessado através do link:(https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/108/views/1) Está estruturado da forma a seguir:
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
-
+- Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista;
+- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando;
+- In Progress: Representa as tarefas que estão em andamento;
+- Done: São as tarefas já realizadas,  e podem passar por atualizações durante o desenvolvimento do projeto.
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
