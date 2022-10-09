@@ -33,7 +33,7 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ## Tecnologias Utilizadas
 
-As tecnologias utilizadas são Dashboard - Expo código, SQlite, DBaver, React Native, linguagens: HTML, CSS, JavaScript.
+As tecnologias utilizadas são Dashboard - Expo código, Oracle - SQL Developer, Oracle - Data Modeler, React Native, linguagens: HTML, CSS, JavaScript.
 
 ## Hospedagem
 
@@ -47,19 +47,25 @@ A hospedagem do projeto feita no "GitHub", a do banco de dados utiliza-se o "DBa
 
 ## Qualidade de Software
 
-As sub-características que a equipe usará são: Apreensibilidade: listada no RNF-04, prezando pelo fácil acesso do usuário na aplicação;
+A medida que a tecnologia avança vem se tornando cada vez comum a priorização da qualidade de software, podendo determinar até o sucesso de um negócio.
+Atualmente não basta apenas satisfazer o pedido do cliente para "desenvolver algo que funcione corretamente", mesmo que tenha sido altamente avaliado em termos de qualidade, mas nos últimos anos o nível de demanda do lado do cliente vem subindo, como por exemplo: "eu quero algo que não só funcione corretamente, mas que possa ser usado e satisfatório".
 
-Segurança de acesso: listada no RNF-01, para prezar pela segurança do usuário;
+Por isso, para alcançar a qualidade que satisfaça os clientes, está se tornando cada vez mais importante analisar as expectativas desses diversos clientes, examinar os requisitos de qualidade que devem ser perseguidos e prosseguir com o desenvolvimento.
+Existem diferentes expectativas de qualidade para cada stakeholder, as expectativas para os produtos diferem dependendo de cada posição, por isso é muito importante compreender firmemente que tipo de qualidade cada stakeholder está procurando.
 
-Operacionalidade: com relação ao requisito listado no RNF-05, focando no bom desempenho e na facilidade de operar na aplicação;
+Desta forma, as expectativas para a qualidade do software cobrem não apenas a funcionalidade, mas também a facilidade de uso, estabilidade e facilidade de operação e manutenção. Por essa razão, não é fácil identificar todas as demandas das partes interessadas e atender suas expectativas sem falhas.
 
-Conformidade: focando no padrão e na portabilidade do software;
-
-Capacidade para ser instalado: o software será capaz de ser instalado em dispositivos mobile;
-
-Testabilidade: testando com facilidade as alterações feitas no software.
+Portanto, existem vários indicadores como um dos padrões de definição e organização de requisitos de qualidade tão diversos, mas desta vez apresentaremos o padrão internacional "ISO/IEC 25010:2011" para avaliar a qualidade do software. Este padrão classifica as características de qualidade do software nas seguintes oito categorias e 31 subcategorias presentes na imagem a seguir:
 
 
+![image](https://user-images.githubusercontent.com/32153247/194778469-14e165d5-3364-4821-90b9-de6e79f2351a.png)
+![image](https://user-images.githubusercontent.com/32153247/194778541-81720b32-cc0c-4454-a68b-369d215b946d.png)
+![image](https://user-images.githubusercontent.com/32153247/194778612-76cb92ab-0ba5-4d07-aac3-fa1bba47ae51.png)
+![image](https://user-images.githubusercontent.com/32153247/194778648-aae08a3f-0b6f-45ae-a661-af6f4b4e0de9.png)
+
+Com base nessas características escolhemos algumas para focar no nosso projeto:
+
+![image](https://user-images.githubusercontent.com/32153247/194778700-59d4ce4e-55b1-4dc3-a6e4-a28a66a52b9b.png)
 
 
 
