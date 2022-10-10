@@ -204,17 +204,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais d
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01 | Permitir cadastrar usuario consumidor. | MUST | 
-|RF-02 | Permitir ao consumidor criar uma lista de compras.  | MUST |
-|RF-03 | Inserir informações dos produtos por meio de uma API. | MUST | 
-|RF-04 | Permitir ao consumidor, de forma colaborativa, inserir informações sobre determinado produto e carregar imagem que comprove.   | MUST |
-|RF-05 | Retornar ao usuario a lista cadastrada informando o preço total. | MUST | 
-|RF-06 | Retornar ao usuario o total por supermercado mais proximo de sua localização.   | MUST |
-|RF-07 | Sugerir um produto similar, caso o solicitado na lista não tenha na base. | SHOULD | 
-|RF-08 | Salvar lista de favoritos.   | WON'T |
-|RF-09 | Compartilhar a lista. | COULD | 
-|RF-10 | Permitir ao usuario realizar um checklist da compra.   | COULD |
-|RF-11 | Permitir ao usuario finalizar a compra somente pela opção de retirada e pagamento no estabelecimento. | WON'T | 
+|RF-01 | Permitir cadastrar usuario | MUST | 
+|RF-02 | Login do Usuário | MUST | 
+|RF-03 | Permitir ao consumidor criar uma lista de compras.  | MUST |
+|RF-04 | Inserir informações dos produtos por meio de uma API. | MUST | 
+|RF-05 | Permitir ao consumidor, de forma colaborativa, inserir informações sobre determinado produto e carregar imagem que comprove.   | MUST |
+|RF-06 | Retornar ao usuario a lista cadastrada informando o preço total. | MUST | 
+|RF-07 | Retornar ao usuario o total por supermercado mais proximo de sua localização.   | MUST |
+|RF-08 | Sugerir um produto similar, caso o solicitado na lista não tenha na base. | SHOULD | 
+|RF-09 | Salvar lista de favoritos.   | WON'T |
+|RF-10 | Compartilhar a lista. | COULD | 
+|RF-11 | Permitir ao usuario realizar um checklist da compra.   | COULD |
+|RF-12 | Permitir ao usuario finalizar a compra somente pela opção de retirada e pagamento no estabelecimento. | WON'T | 
 
 
 ### Requisitos não Funcionais
