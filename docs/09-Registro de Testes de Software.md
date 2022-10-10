@@ -14,6 +14,8 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ![WhatsApp Image 2022-10-09 at 19 43 02](https://user-images.githubusercontent.com/32153247/194788167-b09f9a05-1965-4d7f-a88c-8a47bc1497c8.jpeg)
 
+[Planilha para um melhor entendimento](https://docs.google.com/spreadsheets/d/14yjahPBaRlwiWhk3Jy2yPRcW0H2jeLNE/edit?usp=sharing&ouid=103647942874639202065&rtpof=true&sd=true "Planilha para um melhor entendimento")
+
 ## Avaliação
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
