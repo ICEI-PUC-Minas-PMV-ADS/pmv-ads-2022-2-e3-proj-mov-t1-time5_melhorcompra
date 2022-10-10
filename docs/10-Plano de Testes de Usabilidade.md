@@ -18,7 +18,7 @@ O teste de usabilidade é um método para encontrar a "psicologia do usuário" e
 
 ![image](https://user-images.githubusercontent.com/32153247/194788477-46d5b66a-8676-4117-916f-3cb9c83be4a4.png)
 
-Planilha para melhor entendimento: https://docs.google.com/spreadsheets/d/14yjahPBaRlwiWhk3Jy2yPRcW0H2jeLNE/edit#gid=261625057
+[Planilha para um melhor entendimento](https://docs.google.com/spreadsheets/d/14yjahPBaRlwiWhk3Jy2yPRcW0H2jeLNE/edit?usp=sharing&ouid=103647942874639202065&rtpof=true&sd=true "Planilha para um melhor entendimento")
 
 As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
 
