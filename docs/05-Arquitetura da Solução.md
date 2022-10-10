@@ -29,7 +29,8 @@ Na figura abaixo é mostrado o Esquema Relacional(ER) desenvolvido no próprio b
 
 ## Modelo Físico
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+Os scripts da criação das tabelas do banco se encontram na pasta src\bd
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time5_melhorcompra/blob/main/src/bd/sql-scripts
 
 ## Tecnologias Utilizadas
 
