@@ -16,8 +16,9 @@ O teste foi definido como não moderado, pois não requer a presenta do avaliado
 Objetivos:
 O teste de usabilidade é um método para encontrar a "psicologia do usuário" e "problemas com sites/aplicativos" ao fazer com que os usuários realmente usem sites e aplicativos enquanto nós devemos observar suas ações e declarações.
 
-![image](https://user-images.githubusercontent.com/32153247/194788045-e0da190a-a52a-4683-ba28-2de31894f22e.png)
+![image](https://user-images.githubusercontent.com/32153247/194788477-46d5b66a-8676-4117-916f-3cb9c83be4a4.png)
 
+Planilha para melhor entendimento: https://docs.google.com/spreadsheets/d/14yjahPBaRlwiWhk3Jy2yPRcW0H2jeLNE/edit#gid=261625057
 
 As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
 
