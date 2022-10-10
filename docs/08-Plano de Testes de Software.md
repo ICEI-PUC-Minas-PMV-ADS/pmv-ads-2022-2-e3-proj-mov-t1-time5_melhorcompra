@@ -2,11 +2,16 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+Os cenários criados foram focados nos testes referente a etapa atual do projeto, relacionadas ao cadastro e login do usuário, os demais cenários que constam pendentes serão para as próximas etapas:
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+![image](https://user-images.githubusercontent.com/32153247/194787728-6df7e993-d300-41eb-85d3-2c76858bf5cf.png)
+![image](https://user-images.githubusercontent.com/32153247/194787585-3c3738a5-e045-45b0-b511-43dccfe8ee8d.png)
+
+Planilha para consulta para um melhor entendimento: https://docs.google.com/spreadsheets/d/14yjahPBaRlwiWhk3Jy2yPRcW0H2jeLNE/edit#gid=873269074
  
 ## Ferramentas de Testes (Opcional)
+
+Não foram utilizadas ferramentas, todos os testes foram realizados manualmente.
 
 Comente sobre as ferramentas de testes utilizadas.
  
