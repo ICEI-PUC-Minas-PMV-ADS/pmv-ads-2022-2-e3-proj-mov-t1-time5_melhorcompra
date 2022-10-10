@@ -7,8 +7,8 @@ Os cenários criados foram focados nos testes funcionais referente a etapa atual
 ![image](https://user-images.githubusercontent.com/32153247/194787728-6df7e993-d300-41eb-85d3-2c76858bf5cf.png)
 ![image](https://user-images.githubusercontent.com/32153247/194787585-3c3738a5-e045-45b0-b511-43dccfe8ee8d.png)
 
-Planilha para consulta para um melhor entendimento: https://docs.google.com/spreadsheets/d/14yjahPBaRlwiWhk3Jy2yPRcW0H2jeLNE/edit#gid=873269074
- 
+[Planilha para um melhor entendimento](https://docs.google.com/spreadsheets/d/14yjahPBaRlwiWhk3Jy2yPRcW0H2jeLNE/edit?usp=sharing&ouid=103647942874639202065&rtpof=true&sd=true "Planilha para um melhor entendimento")
+
 ## Ferramentas de Testes (Opcional)
 
 Não foram utilizadas ferramentas, todos os testes foram realizados manualmente.
