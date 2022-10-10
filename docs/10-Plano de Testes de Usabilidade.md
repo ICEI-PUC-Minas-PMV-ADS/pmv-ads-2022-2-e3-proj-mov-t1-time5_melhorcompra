@@ -1,6 +1,23 @@
 # Plano de Testes de Usabilidade
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+Usabilidade simplesmente refere-se ao grau de "se é fácil de usar para o usuário-alvo".
+
+De acordo com a ISO 9241-11 o Teste de Usabilidade é:
+"O grau de eficácia, eficiência e satisfação do usuário quando um produto é usado por um usuário designado para alcançar um propósito especificado sob as circunstâncias de uso especificado."
+
+Todo mundo "imagina o usuário" e tenta ser o mais orientado para o usuário possível, mas a imaginação é limitada e nem sempre isso reflete a realidade, pois se 
+você está familiarizado com a aplicação será difícil encontrar o problema, de modo que o teste do ponto de vista de um terceiro seria mais eficaz por não ter a visão já tendeciosa do desenvolver onde tudo que ele criou não teria defeitos.
+
+Com base nas análises realizadas, foram definidos:
+Modelo de Testes: Os testes serão feitos de forma remota, devido a maior diversidade de interações de pessoas de diversas localidades.
+Tipo: Qualitativa, pois visa saber o comportamento do usuário em relação a interface.
+O teste foi definido como não moderado, pois não requer a presenta do avaliador e o usuário ficará livre para agir conforme sua vontade.
+
+Objetivos:
+O teste de usabilidade é um método para encontrar a "psicologia do usuário" e "problemas com sites/aplicativos" ao fazer com que os usuários realmente usem sites e aplicativos enquanto nós devemos observar suas ações e declarações.
+
+![image](https://user-images.githubusercontent.com/32153247/194788045-e0da190a-a52a-4683-ba28-2de31894f22e.png)
+
 
 As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
 
