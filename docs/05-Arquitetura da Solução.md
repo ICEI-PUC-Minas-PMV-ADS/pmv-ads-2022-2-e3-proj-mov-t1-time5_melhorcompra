@@ -30,7 +30,8 @@ Na figura abaixo é mostrado o Esquema Relacional(ER) desenvolvido no próprio b
 ## Modelo Físico
 
 Os scripts da criação das tabelas do banco se encontram na pasta src\bd
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time5_melhorcompra/blob/main/src/bd/sql-scripts
+
+Caminho: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time5_melhorcompra/blob/main/src/bd/sql-scripts
 
 ## Tecnologias Utilizadas
 
