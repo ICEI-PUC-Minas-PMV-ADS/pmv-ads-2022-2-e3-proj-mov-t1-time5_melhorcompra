@@ -43,7 +43,7 @@ Para a organzação e distribuição  das tarefas optamos por utilizar o GitHub 
 
 As ferramentas empregadas no projeto são:
 
-Editor de Código: DashBoard, Ferramentas de Comunicação: Microsoft Teams e WhatsApp, Ferramentas para criação de diagramas: Diagramas.net, Ferramentas de desenho de tela (wireframing): Figma.
+Editor de Código: Snack expo, Ferramentas de Comunicação: Microsoft Teams e WhatsApp, Ferramentas para criação de diagramas: Diagramas.net, Ferramentas de desenho de tela (wireframing): Figma.
 
 O editor de código escolhido foi o recomendado pela própria Universidade. Para a comunicação, a equipe optou por utilizar o Microsoft Teams para realização dos encontros semanais fixos e o WhatsApp para itens pontuais.
 
