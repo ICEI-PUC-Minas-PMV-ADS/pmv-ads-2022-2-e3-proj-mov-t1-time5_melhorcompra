@@ -12,12 +12,25 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time5_me
 Snack - Expo: https://snack.expo.dev/@laislima/eixo3melhorcomprapart3?platform=web <br />
 JSON Server: https://tough-carrots-accept-179-220-230-245.loca.lt/
 
-Kenia - Homepage
+### Kenia - Homepage
 Nessa etapa fiquei responsável pela Homepage, como pode ver no video abaixo, a parte de adicionar localização eu ainda estou trabalhando, tentando retornar o endereço na tela. Link do youtube: https://www.youtube.com/watch?v=SOmN6xiXBLM
 
 ![HomePage Etapa 3](img/HomePage.JPG)
 
+### Sabrina - Alterar Senha e Deletar Conta
+Nessa etapa fiquei responsável pela tela de alterar senha e deletar conta, o vídeo da apresentação de como ficou o funcionamento da tela se encontra no link do YouTube abaixo, as funcionalidades ligadas ao banco de dados ainda está sendo trabalhada para a próxima estapa.
 
+**Link do vídeo**:
+https://youtu.be/rKSbKfHl4S8
+
+#### Telas:
+
+![Captura de Tela (3116)_cropped](https://user-images.githubusercontent.com/91202959/198904358-68fa8787-129b-43eb-8c12-ff8b68ff5830.png)
+-----------------
+![Captura de Tela (3117)_cropped](https://user-images.githubusercontent.com/91202959/198904371-24ee6eb1-8a9a-429c-9be2-af92ed4969ae.png)
+
+
+-----
 > **Links Úteis**:
 >
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
