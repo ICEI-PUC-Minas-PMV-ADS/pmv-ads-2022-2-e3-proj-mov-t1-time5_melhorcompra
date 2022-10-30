@@ -18,7 +18,7 @@ Nessa etapa fiquei responsável pela Homepage, como pode ver no video abaixo, a 
 ![HomePage Etapa 3](img/HomePage.JPG)
 
 ### Sabrina - Alterar Senha e Deletar Conta
-Nessa etapa fiquei responsável pela tela de alterar senha e deletar conta, o vídeo da apresentação de como ficou o funcionamento da tela se encontra no link do YouTube abaixo, as funcionalidades ligadas ao banco de dados ainda está sendo trabalhada para a próxima estapa.
+Nessa etapa fiquei responsável pela tela de alterar senha e deletar conta, o vídeo da apresentação de como ficou o funcionamento da tela se encontra no link do YouTube abaixo, as funcionalidades ligadas ao banco de dados ainda está sendo trabalhada para a próxima etapa.
 
 **Link do vídeo**:
 https://youtu.be/rKSbKfHl4S8
