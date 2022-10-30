@@ -8,6 +8,9 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 A implementação relacionada a 2 etapa se encontra anexada:
 
+Kenia - Homepage
+Nessa etapa fiquei responsável pela Homepage, como pode ver no video abaixo, a parte de adicionar localização eu ainda estou trabalhando, tentando retornar o endereço na tela. Link do youtube: https://www.youtube.com/watch?v=SOmN6xiXBLM
+
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time5_melhorcompra/blob/main/app-melhor_compra.zip
 
 > **Links Úteis**:
