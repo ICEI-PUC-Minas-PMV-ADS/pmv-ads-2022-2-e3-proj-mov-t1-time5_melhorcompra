@@ -17,6 +17,11 @@ Nessa etapa fiquei responsável pela Homepage, como pode ver no video abaixo, a 
 
 ![HomePage Etapa 3](img/HomePage.JPG)
 
+### Laís - Lista
+Fiquei responsável pela tela referente a pesquisa dos produtos e consequentemente criação da lista, estarei responsável também pela page do código de barras que será em etapas futuras. Link do youtube: https://youtu.be/X-FBzKyjUHU
+
+![Lista Etapa 3](https://user-images.githubusercontent.com/32153247/198909356-548e28dc-fabd-472c-82fe-b1af3c4b704f.jpeg)
+
 ### Sabrina - Alterar Senha e Deletar Conta
 Nessa etapa fiquei responsável pela tela de alterar senha e deletar conta, o vídeo da apresentação de como ficou o funcionamento da tela se encontra no link do YouTube abaixo, as funcionalidades ligadas ao banco de dados ainda está sendo trabalhada para a próxima etapa.
 
