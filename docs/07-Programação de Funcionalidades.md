@@ -10,7 +10,7 @@ A implementação relacionada a 3 etapa se encontra anexada: <br />
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time5_melhorcompra/tree/main/src/Project
 
 Snack - Expo: https://snack.expo.dev/@laislima/eixo3melhorcomprapart3?platform=web <br />
-JSON Server: https://tough-carrots-accept-179-220-230-245.loca.lt/
+JSON Server: https://olive-walls-stand-179-220-230-245.loca.lt
 
 ### Kenia - Homepage
 Nessa etapa fiquei responsável pela Homepage, como pode ver no video abaixo, a parte de adicionar localização eu ainda estou trabalhando, tentando retornar o endereço na tela. Link do youtube: https://www.youtube.com/watch?v=SOmN6xiXBLM
@@ -61,6 +61,9 @@ https://www.youtube.com/watch?v=xEgKvr-oqIg&t=318s
 
 #### Web API funcionando no servidor Localtunnel - rota de usuários
 <img src="img/localtunnel_user.png" alt="Figura da Web API funcionando no servidor Localtunnel - rota de usuários">
+
+**Link do vídeo**:
+https://www.youtube.com/watch?v=Bk0xUIVLvTM
 
 -----
 > **Links Úteis**:
