@@ -76,7 +76,7 @@ https://www.youtube.com/watch?v=VY_UtGJqI6s
 <img src="img/PerfilTela.png" alt="Figura da Tela Perfil">
 
 #### Tela Estabelecimentos
-<img src="img/EstabelecimentoTela.png" alt="Figura da Tela Estabelecimentos">
+<img src="img/EstabelecimentosTela.png" alt="Figura da Tela Estabelecimentos">
 
 -----
 > **Links Úteis**:
