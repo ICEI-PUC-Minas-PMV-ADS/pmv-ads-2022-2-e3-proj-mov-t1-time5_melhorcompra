@@ -66,6 +66,17 @@ https://www.youtube.com/watch?v=xEgKvr-oqIg&t=318s
 <img src="img/localtunnel_user.png" alt="Figura da Web API funcionando no servidor Localtunnel - rota de usuários">
 
 
+### Geovane - Tela Perfil, Tela Estabelecimentos, Navegação por TabBar e demais rotas
+Nesta etapa fiquei com a responsavel por desenvolver 2 telas da aplicação, tela perfil e tela de estabelecimentos, e fui também responsável por desenvolver a navegação pela Tab Bar e as demais rotas de navegação.
+
+**Link do vídeo**:
+https://www.youtube.com/watch?v=VY_UtGJqI6s
+
+#### Tela Perfil
+<img src="img/PerfilTela.png" alt="Figura da Tela Perfil">
+
+#### Tela Estabelecimentos
+<img src="img/EstabelecimentoTela.png" alt="Figura da Tela Estabelecimentos">
 
 -----
 > **Links Úteis**:
