@@ -37,6 +37,9 @@ https://youtu.be/rKSbKfHl4S8
 ### Werlon - Tela inicial, tela login, tela cadastro de usuário e serviços back-end utilizando uma Web API
 Nesta etapa fiquei com a responsabilidade de desenvolver 3 telas da aplicação, sendo elas, tela inicial, tela de login e tela de cadastro,  e fui também responsável por desenvolver o serviço de back-end utilizando uma web api. Para o desenvolvimento das telas utilizei como fontes de conhecimento o material didático do microfundamento de aplicações móveis, a documentação dos softwares utilizados e também consultei fontes externas, porque para alguns temas, as informações contidas no microfundamento foram insuficientes e algumas vezes confusas. Cito como exemplo a seqüência de vídeos para criação do serviço de web api que achei um pouco confusas. Abaixo mais detalhes das páginas e serviços construídos e fontes externas.
 
+**Link do vídeo**:
+https://www.youtube.com/watch?v=Bk0xUIVLvTM
+
 Fontes externas
 Exportar uma pasta e/ou arquivo para github
 https://www.youtube.com/watch?v=jAT651QFBcM
@@ -62,8 +65,7 @@ https://www.youtube.com/watch?v=xEgKvr-oqIg&t=318s
 #### Web API funcionando no servidor Localtunnel - rota de usuários
 <img src="img/localtunnel_user.png" alt="Figura da Web API funcionando no servidor Localtunnel - rota de usuários">
 
-**Link do vídeo**:
-https://www.youtube.com/watch?v=Bk0xUIVLvTM
+
 
 -----
 > **Links Úteis**:
