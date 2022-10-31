@@ -44,6 +44,19 @@ https://www.youtube.com/watch?v=jAT651QFBcM
 Localtunnel
 https://www.youtube.com/watch?v=xEgKvr-oqIg&t=318s
 
+#### Tela inicial
+<img src="img/tela-inicial_melhor-compra.png" alt="Figura da Tela inicial">
+#### Tela de login
+<img src="img/tela-login_melhor-compra.png" alt="Figura da Tela de login">
+#### Tela de cadastro de usuários
+<img src="img/tela-cadastro_melhor-compra.png" alt="Figura da Tela de cadastro de usuários">
+#### Códigos fonte dos serviços de web api json
+<img src="img/codigos-servicos-webapi-json.png" alt="Figura do Códigos fonte dos serviços de web api json">
+#### Web API funcionando no servidor Localtunnel
+<img src="img/localtunnel1.png" alt="Figura da Web API funcionando no servidor Localtunnel">
+#### Web API funcionando no servidor Localtunnel - rota de usuários
+<img src="img/localtunnel_user.png" alt="Figura da Web API funcionando no servidor Localtunnel - rota de usuários">
+
 -----
 > **Links Úteis**:
 >
