@@ -81,8 +81,10 @@ https://www.youtube.com/watch?v=-SlQV8FJ88o
 <img src="img/EstabelecimentosTela.png" alt="Figura da Tela Estabelecimentos">
 
 #### Aqruivo processedList.services.js
+<img src="img/TelaEstabelecimentosAtual.png" alt="Figura da Tela Estabelecimentos">
 
 #### Aqruivo processedList.js
+<img src="img/ProcessedListServices.png" alt="Figura da ProcessedListServices">
 
 -----
 > **Links Úteis**:
