@@ -71,12 +71,18 @@ Nesta etapa fiquei com a responsavel por desenvolver 2 telas da aplicação, tel
 
 **Link do vídeo**:
 https://www.youtube.com/watch?v=VY_UtGJqI6s
+**Parte 2**:
+https://www.youtube.com/watch?v=-SlQV8FJ88o
 
 #### Tela Perfil
 <img src="img/PerfilTela.png" alt="Figura da Tela Perfil">
 
 #### Tela Estabelecimentos
 <img src="img/EstabelecimentosTela.png" alt="Figura da Tela Estabelecimentos">
+
+#### Aqruivo processedList.services.js
+
+#### Aqruivo processedList.js
 
 -----
 > **Links Úteis**:
