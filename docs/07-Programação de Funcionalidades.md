@@ -26,7 +26,7 @@ Fiquei responsável pela tela referente a pesquisa dos produtos e consequentemen
 Fiquei responsável pela tela de alterar senha e deletar conta, estarei focada na tela de alterar senha, espero implementar o deletar conta no futuro, o vídeo da apresentação de como ficou o funcionamento da tela se encontra no link da parte 2 do YouTube abaixo, as funcionalidades ligadas ao banco de dados não consegui faze-la, está dando erros,mas acredito que nessa última estapa estará pronta.
 
 **Link do vídeo**:
-Parte 1: https://youtu.be/rKSbKfHl4S8      Parte 2:
+Parte 1: https://youtu.be/rKSbKfHl4S8      Parte 2: https://youtu.be/v7HnM7bvAsE
 
 #### Telas:
 
