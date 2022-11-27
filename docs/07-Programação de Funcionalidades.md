@@ -23,16 +23,23 @@ Fiquei responsável pela tela referente a pesquisa dos produtos e consequentemen
 ![Lista Etapa 3](https://user-images.githubusercontent.com/32153247/198909356-548e28dc-fabd-472c-82fe-b1af3c4b704f.jpeg)
 
 ### Sabrina - Alterar Senha e Deletar Conta
-Nessa etapa fiquei responsável pela tela de alterar senha e deletar conta, o vídeo da apresentação de como ficou o funcionamento da tela se encontra no link do YouTube abaixo, as funcionalidades ligadas ao banco de dados ainda está sendo trabalhada para a próxima etapa.
+Fiquei responsável pela tela de alterar senha e deletar conta, estarei focada na tela de alterar senha, espero implementar o deletar conta no futuro, o vídeo da apresentação de como ficou o funcionamento da tela se encontra no link da parte 2 do YouTube abaixo, as funcionalidades ligadas ao banco de dados não consegui faze-la, está dando erros,mas acredito que nessa última estapa estará pronta.
 
 **Link do vídeo**:
-https://youtu.be/rKSbKfHl4S8
+Parte 1: https://youtu.be/rKSbKfHl4S8      Parte 2:
 
 #### Telas:
 
 ![Captura de Tela (3116)_cropped](https://user-images.githubusercontent.com/91202959/198904358-68fa8787-129b-43eb-8c12-ff8b68ff5830.png)
 -----------------
 ![Captura de Tela (3117)_cropped](https://user-images.githubusercontent.com/91202959/198904371-24ee6eb1-8a9a-429c-9be2-af92ed4969ae.png)
+
+#### Parte 2
+
+![Captura de Tela (3119)](https://user-images.githubusercontent.com/91202959/204164329-bd09921a-759c-490b-a245-03e53bb08193.png)
+
+![Captura de Tela (3120)](https://user-images.githubusercontent.com/91202959/204164347-80c0112e-37ff-4f36-8cdd-dcac623fc5eb.png)
+
 
 ### Werlon - Tela inicial, tela login, tela cadastro de usuário e serviços back-end utilizando uma Web API
 Nesta etapa fiquei com a responsabilidade de desenvolver 3 telas da aplicação, sendo elas, tela inicial, tela de login e tela de cadastro,  e fui também responsável por desenvolver o serviço de back-end utilizando uma web api. Para o desenvolvimento das telas utilizei como fontes de conhecimento o material didático do microfundamento de aplicações móveis, a documentação dos softwares utilizados e também consultei fontes externas, porque para alguns temas, as informações contidas no microfundamento foram insuficientes e algumas vezes confusas. Cito como exemplo a seqüência de vídeos para criação do serviço de web api que achei um pouco confusas. Abaixo mais detalhes das páginas e serviços construídos e fontes externas.
