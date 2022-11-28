@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://mighty-foxes-tell-189-26-196-168.loca.lt';
