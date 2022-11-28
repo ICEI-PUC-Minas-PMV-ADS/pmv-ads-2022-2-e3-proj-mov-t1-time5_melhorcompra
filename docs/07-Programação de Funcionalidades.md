@@ -13,9 +13,12 @@ Snack - Expo: https://snack.expo.dev/@geovanevlg/eixo3melhorcomprapart3?platform
 JSON Server: https://olive-walls-stand-179-220-230-245.loca.lt
 
 ### Kenia - Homepage
-Nessa etapa fiquei responsável pela Homepage, como pode ver no video abaixo, a parte de adicionar localização eu ainda estou trabalhando, tentando retornar o endereço na tela. Link do youtube: https://www.youtube.com/watch?v=SOmN6xiXBLM
+Nessa etapa fiquei responsável pela Homepage, como pode ver no video abaixo, a parte de adicionar localização eu ainda estou trabalhando, tentando retornar o endereço na tela. Link do youtube referente a etapa 3: https://www.youtube.com/watch?v=SOmN6xiXBLM
 
 ![HomePage Etapa 3](img/HomePage.JPG)
+
+Na etapa 4 busquei realizar a persistencias dos dados, segue abaixo o video explicando:
+Link do youtube referente a etapa 4: https://youtu.be/7kQrV_gIYio
 
 ### Laís - Lista
 Fiquei responsável pela tela referente a pesquisa dos produtos e consequentemente criação da lista, estarei responsável também pela page do código de barras que será em etapas futuras. Link do youtube: https://youtu.be/X-FBzKyjUHU
@@ -92,6 +95,11 @@ https://www.youtube.com/watch?v=-SlQV8FJ88o
 
 #### Aqruivo processedList.js
 <img src="img/ProcessedListServices.png" alt="Figura da ProcessedListServices">
+
+
+##ETAPA 4
+
+
 
 -----
 > **Links Úteis**:
