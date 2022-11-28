@@ -46,9 +46,16 @@ Parte 1: https://youtu.be/rKSbKfHl4S8      Parte 2: https://youtu.be/v7HnM7bvAsE
 
 ### Werlon - Tela inicial, tela login, tela cadastro de usuário e serviços back-end utilizando uma Web API
 Nesta etapa fiquei com a responsabilidade de desenvolver 3 telas da aplicação, sendo elas, tela inicial, tela de login e tela de cadastro,  e fui também responsável por desenvolver o serviço de back-end utilizando uma web api. Para o desenvolvimento das telas utilizei como fontes de conhecimento o material didático do microfundamento de aplicações móveis, a documentação dos softwares utilizados e também consultei fontes externas, porque para alguns temas, as informações contidas no microfundamento foram insuficientes e algumas vezes confusas. Cito como exemplo a seqüência de vídeos para criação do serviço de web api que achei um pouco confusas. Abaixo mais detalhes das páginas e serviços construídos e fontes externas.
+Na etapa 4 fiquei responsável por encontrar uma solução de hospedagem pública do servidor, porém ainda não consegui. Fiquei responsável também de revisar as páginas depois de conversar com o monitor Rodrigo sobre o problema no Android que estamos tendo. O monitor informou que o código estava um pouco desordenado e com problemas de notação (;, (, { , etc) e as páginas que foram possíveis identificar fiz as correções. Revisei também a parte de navegação que estava com o código/estrutura errada. No momento, estou ajudando alguns dos integrantes com a parte do CRUD de outras páginas.
 
 **Link do vídeo**:
 https://www.youtube.com/watch?v=Bk0xUIVLvTM
+
+**Link do vídeo - Etapa 4**:
+https://www.youtube.com/watch?v=MBwArZp8gBM
+
+**Link do vídeo - Etapa 4 - Erro persistindo quando simula no Android**:
+https://www.youtube.com/watch?v=HF0M6F2mXMQ
 
 Fontes externas
 Exportar uma pasta e/ou arquivo para github
