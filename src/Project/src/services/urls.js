@@ -1,1 +1,0 @@
-export const BASE_URL = 'https://tough-carrots-accept-179-220-230-245.loca.lt/';
