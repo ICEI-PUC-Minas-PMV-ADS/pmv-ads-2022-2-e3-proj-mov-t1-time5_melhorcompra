@@ -25,6 +25,14 @@ Fiquei responsável pela tela referente a pesquisa dos produtos e consequentemen
 
 ![Lista Etapa 3](https://user-images.githubusercontent.com/32153247/198909356-548e28dc-fabd-472c-82fe-b1af3c4b704f.jpeg)
 
+Na parte 4 dei continuidade a page Lista e realizei algumas alterações, segue abaixo o vídeo sobre a parte 4:
+[https://youtu.be/cEIqgUzZ2WM
+](https://youtu.be/cEIqgUzZ2WM)
+
+![image](https://user-images.githubusercontent.com/32153247/204175819-8c8ce627-db0e-4936-aedf-06fd6cc8ed87.png)
+![image](https://user-images.githubusercontent.com/32153247/204176359-5c7fba5e-888b-46f6-8fbb-9b8e4608ba46.png)
+
+
 ### Sabrina - Alterar Senha e Deletar Conta
 Fiquei responsável pela tela de alterar senha e deletar conta, estarei focada na tela de alterar senha, espero implementar o deletar conta no futuro, o vídeo da apresentação de como ficou o funcionamento da tela se encontra no link da parte 2 do YouTube abaixo, as funcionalidades ligadas ao banco de dados não consegui faze-la, está dando erros,mas acredito que nessa última estapa estará pronta.
 
