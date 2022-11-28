@@ -6,8 +6,9 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
-A implementação relacionada a 3 etapa se encontra anexada: <br />
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time5_melhorcompra/tree/main/src/Project
+A implementação relacionada a 4 etapa se encontra anexada: <br />
+[https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time5_melhorcompra/tree/main/src/Project
+](https://snack.expo.dev/@laislima/eixo3melhorcompra-etapa4-entregaoficial?platform=web)
 
 Snack - Expo: https://snack.expo.dev/@geovanevlg/eixo3melhorcomprapart3?platform=web <br />
 JSON Server: https://olive-walls-stand-179-220-230-245.loca.lt
