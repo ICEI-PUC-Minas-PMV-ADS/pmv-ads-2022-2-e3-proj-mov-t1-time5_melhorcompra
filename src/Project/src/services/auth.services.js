@@ -19,6 +19,7 @@ export const register = async (param) => {
 }
 
 export const login = async (param) => {
+  console.log(param);
   try{
     return await API.post(`${BASE_URL}/login`, param).then( 
       response => {
@@ -37,7 +38,24 @@ export const login = async (param) => {
 
 export const changePass = async (param) => {
   try{
-    return await API.patch(`${BASE_URL}/login`, param).then( 
+    return await API.put(`${BASE_URL}/users`, param).then( 
+      response => {
+        return response.data;
+      },
+      error =>{
+        console.log(error);
+        return  null;
+      }
+    );
+  }catch(error){
+    console.log(error);
+    return null;
+  }
+}
+
+export const deleteAccount = async (id) => {
+  try{
+    return await API.delete(`${BASE_URL}/users/${id}`).then( 
       response => {
         return response.data;
       },

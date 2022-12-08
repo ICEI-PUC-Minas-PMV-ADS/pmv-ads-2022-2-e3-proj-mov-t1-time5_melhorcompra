@@ -2,22 +2,23 @@ import API from './webapi.services';
 import {BASE_URL} from './urls';
 
 export const getLista = async (id) => {
-  try{
-    return await API.get(`${BASE_URL}/carts`).then( 
-      response => {
-        let resposta = response.data.filter(x => x.id_consumidor === id)
-        return resposta;
+  try {
+    return await API.get(
+      `${BASE_URL}/carts?id_consumidor=${id}`
+    ).then(
+      (response) => {
+        return response.data;
       },
-      error =>{
+      (error) => {
         console.log(error);
-        return  null;
+        return null;
       }
     );
-  }catch(error){
+  } catch (error) {
     console.log(error);
     return null;
   }
-}
+};
 
 export const insertLista = async (param) => {
   try{
