@@ -6,12 +6,12 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
-A implementação relacionada a 4 etapa se encontra anexada: <br />
+A implementação relacionada a 5 etapa se encontra anexada: <br />
 [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time5_melhorcompra/tree/main/src/Project
 ](https://snack.expo.dev/@laislima/eixo3melhorcompra-etapa4-entregaoficial?platform=web)
 
-Snack - Expo: https://snack.expo.dev/@geovanevlg/eixo3melhorcomprapart3?platform=web <br />
-JSON Server: https://olive-walls-stand-179-220-230-245.loca.lt
+Snack - Expo:[ https://snack.expo.dev/@geovanevlg/eixo3melhorcomprapart3?platform=web](https://snack.expo.dev/@laislima/eixo3melhorcompra-etapa5-entregafinal?platform=ios) <br />
+JSON Server: [https://olive-walls-stand-179-220-230-245.loca.lt](https://cold-dingos-travel-177-83-195-167.loca.lt/)
 
 ### Kenia - Homepage
 Fiquei responsável pela Homepage, na etapa 3 como pode ver no video abaixo, a parte de adicionar localização eu ainda estou trabalhando, tentando retornar o endereço na tela. Link do youtube referente a etapa 3: https://www.youtube.com/watch?v=SOmN6xiXBLM
