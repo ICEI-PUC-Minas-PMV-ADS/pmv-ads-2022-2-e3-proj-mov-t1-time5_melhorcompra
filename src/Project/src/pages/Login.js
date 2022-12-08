@@ -9,38 +9,35 @@ import ButtonGrey from '../components/ButtonGrey';
 import Input from '../components/Input';
 
 import { useNavigation } from '@react-navigation/native';
-import {useUser} from '../contexts/UserContext';
+import { useUser } from '../contexts/UserContext';
 
-import {login} from '../services/auth.services';
+import { login } from '../services/auth.services';
 
 const Login = () => {
-
   const navigation = useNavigation();
-  const {setSigned, setName,name,setUserid, userid} = useUser();
+  const { setSigned, setName, setUserid } = useUser();
 
-  const [email, setEmail] = useState('pedro.oliveira@gmail.com');
-  const [password, setPassword] = useState('teste');
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
 
-   const handleLogin= () => {
+  const handleLogin = () => {
+
 
     login({
       email: email,
-      password: password
-    }).then( res => {
+      password: password,
+    }).then((res) => {
       console.log(res);
 
-      if(res && res.user){
+      if (res && res.user) {
         setSigned(true);
         setName(res.user.name);
         setUserid(res.user.id);
-        console.log("Usuario:" + userid + "Nome" + name);
         AsyncStorage.setItem('@TOKEN_KEY', res.accessToken).then();
-      }else{
-         Alert.alert('Atenção', 'Usuário ou senha inválidos!');
+      } else {
+        Alert.alert('Atenção', 'Usuário ou senha inválidos!');
       }
-
     });
-    
   }
 
   return (
@@ -51,20 +48,23 @@ const Login = () => {
 
       <Body>
         <Input
-        label="Email"
-        keyboardType="email-address"
-        value={email}      
-        onChangeText={(text) => setEmail(text)}
+          label="Email"
+          keyboardType="email-address"
+          value={email}
+          onChangeText={(text) => setEmail(text)}
         />
-         <Input
-        label="Senha"
+        <Input
+          label="Senha"
           keyboardType="default"
           value={password}
           secureTextEntry
-          onChangeText={(text) => setPassword(text)}       
+          onChangeText={(text) => setPassword(text)}
         />
         <ButtonRed labelButton="Entrar" onPress={handleLogin} />
-        <ButtonGrey labelButton="Cancelar" onPress={() => navigation.goBack()} />
+        <ButtonGrey
+          labelButton="Cancelar"
+          onPress={() => navigation.goBack()}
+        />
       </Body>
     </Container>
   );
@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
   header: {
     alignItems: 'center',
     marginTop: 50,
-    marginBottom: 12
+    marginBottom: 12,
   },
 });
 

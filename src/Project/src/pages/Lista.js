@@ -1,30 +1,50 @@
 import React, { useState, useEffect } from 'react';
-import { StyleSheet, View } from 'react-native';
+import { StyleSheet, View, FlatList } from 'react-native';
 import { Button, Text, List } from 'react-native-paper';
 import Container from '../components/Container';
 import Header from '../components/Header';
 
-import { useNavigation } from '@react-navigation/native';
+import { useNavigation, useIsFocused } from '@react-navigation/native';
 import { SelectList } from 'react-native-dropdown-select-list';
+import {
+  getLista,
+  updateLista,
+  insertLista,
+  deleteLista,
+} from '../services/carrinhos.services';
+
 import axios from 'axios';
 
 const Lista = ({ route }) => {
   const navigation = useNavigation();
-
+  const { item } = route.params ? route.params : {};
+  const isFocused = useIsFocused();
   const [selected, setSelected] = React.useState('');
+  const [lista, setLista] = useState();
+  const [descricao, setDescricao] = useState('');
+  const [preco, setPreco] = useState('');
+  const [quantidade, setQuantidade] = useState('');
 
-  const data = [
-    { key: '1', value: 'Arroz' },
-    { key: '2', value: 'Feijão' },
-    { key: '3', value: 'Café' },
-    { key: '4', value: 'Açucar' },
-    { key: '5', value: 'Leite' },
-  ];
+  const data = { lista };
+
+  useEffect(() => {
+    getLista().then((data) => {
+      console.log(data);
+      setLista(data);
+    });
+  }, [isFocused]);
+
+    useEffect(() => {
+    updateLista().then((data) => {
+      console.log(data);
+      setLista(data);
+    });
+  }, [isFocused]);
 
   useEffect(
     () =>
       axios
-        .get('https://jsonplaceholder.typicode.com/users')
+        .get('https://clever-kids-wait-177-83-195-167.loca.lt')
         .then((response) => {
           let newArray = response.data.map((item) => {
             return { key: item.id, value: item.name };
@@ -35,6 +55,28 @@ const Lista = ({ route }) => {
           console.log(e);
         }),
     []
+  );
+
+  const renderItem = ({ item }) => (
+    <List.Item
+      title={item.descricao}
+      description={'Quantidade: ' + item.quantidade}
+      left={(props) => (
+        <List.Icon
+          {...props}
+          icon={{
+            uri: item.icone,
+          }}
+        />
+      )}
+      right={(props) => (
+        <Text {...props} style={{ alignSelf: 'center' }}>
+          {' '}
+          {'R$' + item.preco}{' '}
+        </Text>
+      )}
+      onPress={() => console.log('Quantidade: ' + item.quantidade)}
+    />
   );
 
   return (
@@ -66,22 +108,10 @@ const Lista = ({ route }) => {
 
       <Text style={styles.textProdutos}>Produtos na Lista</Text>
       <View style={styles.list}>
-        <List.Item
-          title="Arroz"
-          description="R$ 6,00"
-          left={(props) => <List.Icon {...props} icon="rice" />}
-        />
-
-        <List.Item
-          title="Feijão"
-          description="R$ 7,00"
-          left={(props) => <List.Icon {...props} icon="food-fork-drink" />}
-        />
-
-        <List.Item
-          title="Café"
-          description="R$ 12,00"
-          left={(props) => <List.Icon {...props} icon="coffee" />}
+        <FlatList
+          data={lista}
+          renderItem={renderItem}
+          keyExtractor={(item) => item.id}
         />
       </View>
 

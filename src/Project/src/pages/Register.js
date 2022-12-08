@@ -15,11 +15,16 @@ const Register = () => {
 
   const navigation = useNavigation();
   
-  const [name, setName] = useState('Werlon Oliveira');
-  const [email, setEmail] = useState('werlon.oliveira@gmail.com');
-  const [password, setPassword] = useState('teste123');
+  const [name, setName] = useState('');
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
 
   const handleRegister = () => {
+
+        console.log(name);
+    console.log(password);
+        console.log(email);
+    
 
     register({
       name: name,

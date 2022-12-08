@@ -3,11 +3,15 @@ import { StyleSheet, View, Alert, FlatList } from 'react-native';
 import { TextInput, Button, Headline, List, Text } from 'react-native-paper';
 import Container from '../components/Container';
 import Body from '../components/Body';
+import Header from '../components/Header';
 import { useUser } from '../contexts/UserContext';
-import {getProcessedList, getQtdProcessedList} from '../services/processedList.services'
- 
+import {
+  getProcessedList,
+  getQtdProcessedList,
+} from '../services/processedList.services';
+
 import { useNavigation } from '@react-navigation/native';
- 
+
 const ProcessedList = () => {
   const navigation = useNavigation();
   const idUsuario = 1; //useUser();
@@ -17,7 +21,7 @@ const ProcessedList = () => {
   var [anteriorListaSeta, setAnteriorListaSeta] = useState(true);
   var [quantidadeDeLista, setQuantidadeDeLista] = useState(0);
   var [valorTotal, setValorTotal] = useState(0);
- 
+
   useEffect(() => {
     getProcessedList(idUsuario, numLista).then((dados) => {
       setListProcessed(dados);
@@ -31,7 +35,7 @@ const ProcessedList = () => {
       setQuantidadeDeLista(dados);
     });
   }, [numLista, idUsuario]);
- 
+
   const proximaLista = () => {
     if (numLista >= quantidadeDeLista) {
       setProximaListaSeta(true);
@@ -48,7 +52,7 @@ const ProcessedList = () => {
       setAnteriorListaSeta(true);
     }
   };
- 
+
   const renderItem = ({ item }) => (
     <List.Item
       title={'1x ' + item.produto}
@@ -71,18 +75,11 @@ const ProcessedList = () => {
       onPress={() => console.log(item.produto)}
     />
   );
- 
+
   return (
     <Container>
+      <Header title={''} goBack={() => navigation.goBack()} />
       <Body>
-        <View style={styles.goBack}>
-          <Button
-            color="black"
-            icon="arrow-left-bold"
-            mode="text"
-            labelStyle={{ fontSize: 20 }}
-          />
-        </View>
         <View>
           <Button
             style={styles.buttonLocation}
@@ -106,7 +103,7 @@ const ProcessedList = () => {
             labelStyle={{ fontSize: 20 }}
           />
         </View>
- 
+
         <View style={styles.bodyList}>
           <View style={styles.btn}>
             <Button
@@ -144,7 +141,7 @@ const ProcessedList = () => {
     </Container>
   );
 };
- 
+
 const styles = StyleSheet.create({
   list: {
     height: 450,
@@ -198,5 +195,5 @@ const styles = StyleSheet.create({
     bottom: 20,
   },
 });
- 
+
 export default ProcessedList;

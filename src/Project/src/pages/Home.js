@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import { BottomNavigation, Text } from 'react-native-paper';
 
-import BarCode from './BarCode';
 import Inicio from './Inicio';
 import Profile from './Profile';
 import Lista from './Lista';
@@ -10,15 +9,13 @@ const Home = () => {
   const [index, setIndex] = useState(0);
   
   const [routes] = useState([
-    { key: 'inicio', title: 'Inicio', icon: 'home', color:'#E74C3C'},  
-    { key: 'lista', title: 'Lista', icon: 'clipboard-list', color:'#E74C3C'},
-    { key: 'barcode', title: 'Barcode', icon: 'barcode-scan', color:'#E74C3C'},
-    { key: 'profile', title: 'Profile', icon: 'account', color:'#E74C3C'},
+    { key: 'inicio', title: 'Inicio', icon: 'home'},  
+    { key: 'lista', title: 'Lista', icon: 'clipboard-list'},
+    { key: 'profile', title: 'Profile', icon: 'account'},
   ]);
 
   const renderScene = BottomNavigation.SceneMap({
     inicio: Inicio,
-    barcode: BarCode,
     lista: Lista,    
     profile: Profile,
     
@@ -29,6 +26,7 @@ const Home = () => {
       navigationState={{ index, routes }}
       onIndexChange={setIndex}
       renderScene={renderScene}
+      barStyle={{ backgroundColor: '#E74C3C' }} 
     />
   );
 };
