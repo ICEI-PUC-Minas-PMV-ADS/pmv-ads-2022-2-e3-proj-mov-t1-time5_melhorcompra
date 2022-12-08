@@ -2,16 +2,13 @@ import * as React from 'react';
 import { TextInput } from 'react-native-paper';
 import {StyleSheet } from "react-native";
 
-const Input = ({label, keyboardType}) => {
-  //const [text, setText] = React.useState("");
+const Input = (props) => {
 
   return (
     <TextInput
       style={styles.input}
-      label={label}
-      mode="outlined"     
-      keyboardType={keyboardType}
-
+      mode="outlined"
+      {...props}
     />
   );
 }
@@ -21,6 +18,5 @@ const styles = StyleSheet.create({
       height: 40,
   },
 });
-
 
 export default Input;

@@ -33,16 +33,6 @@ function MyTabs() {
           ),
         }}
       />
-      <Tab.Screen
-        name="Cod"
-        component={MainPage}
-        options={{
-          tabBarLabel: 'Código de Barras',
-          tabBarIcon: ({ color }) => (
-            <MaterialCommunityIcons name="barcode-scan" color={color} size={26} />
-          ),
-        }}
-      />
        <Tab.Screen
         name="Profile"
         component={Profile}
